@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Egu2017s on Yair Mau</title>
+    <link>https://yairmau.github.io/egu2017/index.xml</link>
+    <description>Recent content in Egu2017s on Yair Mau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 15:14:39 +0200</lastBuildDate>
+    <atom:link href="https://yairmau.github.io/egu2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EGU 2017</title>
+      <link>https://yairmau.github.io/egu2017/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/egu2017/</guid>
+      <description>&lt;p&gt;My poster.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
