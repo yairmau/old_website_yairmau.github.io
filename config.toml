@@ -1,0 +1,41 @@
+baseurl = "https://yairmau.github.io/"
+languageCode = "en-us"
+metadataformat = "yaml"
+title = "Yair Mau"
+theme = "hugo-alabaster-theme"
+
+disqusShortname = ""
+googleAnalytics = "UA-78726339-1"
+
+[params]
+	name = "Yair Mau"
+	university = "The Hebrew University of Jerusalem"
+    description = "Environmental Modeling"
+	# github_user   = "digitalcraftsman"
+	# github_repo   = "hugo-alabaster-theme"
+	github_banner = false
+
+	custom_css = ["css/yair_css.css"]
+	custom_js  = ["js/toggle.js"]
+
+	highlightjs = "css/highlight.css"
+	# highlightjs = "css/pygments.css"
+	favicon = "images/site-logo_official.png"
+
+[params.sidebar]
+	logo = "images/site-logo_official.png"
+	github_button  = true
+	travis_button  = false
+	codecov_button = false
+	gratipay = ""
+	show_relations = false
+
+[params.footer]
+	copyright = "[Yair Mau](https://yairmau.github.io)"
+	show_powered_by = true
+
+ [[menu.main]]
+  name   = "Home"
+  identifier = "home"
+  url    = "/"
+  weight = 0
