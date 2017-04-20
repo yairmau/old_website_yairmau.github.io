@@ -3,27 +3,35 @@ date: 2017-04-20T15:14:39+02:00
 title: Website setup
 ---
 
-Instructions on how to host your Hugo website on Github. The website URL will be `myGHwebsite.github.io`, and it is assumed that `myGHwebsite` is the same as your Github username. These instructions are based on this [blog post](https://proquestionasker.github.io/blog/Making_Site/#initializing-github-pages-to-work-with-hugo-and-blogdown), which in turn is based on [this](https://hjdskes.github.io/blog/update-deploying-hugo-on-personal-gh-pages/). (You can also consult [this](https://gohugo.io/tutorials/github-pages-blog/), although I think it is unnecessary.) 
+Instructions on how to host your Hugo website on Github. The website URL will be `username.github.io`, where username is your Github username.
+These instructions are based on this [blog post](https://hjdskes.github.io/blog/update-deploying-hugo-on-personal-gh-pages/) (You can also consult [this](https://gohugo.io/tutorials/github-pages-blog/), although I think it is unnecessary.) 
 
-1. Create a Github repository `myGHwebsite.github.io`, substitute `myGHwebsite` for whatever you want.
-2. Follow Github setup instructions to make your first commit and push. On the command line:
+
+1. On Github, create repository called username.github.io
+2. Locally, do the following:
     
     ```bash
-    mkdir myGHwebsite.github.io
-    cd myGHwebsite.github.io
-    echo "# myGHwebsite.github.io" >> README.md
+    mkdir yairmau.github.io
+    cd yairmau.github.io
+    echo "# yairmau.github.io" >> README.md
     git init
     git add README.md
     git commit -m "first commit"
-    git remote add origin https://github.com/GHusername/myGHwebsite.github.io.git
+    git remote add origin https://github.com/yairmau/yairmau.github.io.git
     git push -u origin master
     ```
-3. Reload the Github page, you will see "1 commit" in your repository page. Click on "Branch: master", create a new branch called "sources".
-4. You will see now "2 branches", click on it. Click on "Change default branch", and choose "sources", then update.
-5. On the command line, `git pull`, to sync with what you just did on your browser.
-6. Now type `git checkout sources` to switch to sources branch.
-7. Download [this code](/website_setup/setup.sh/), put it in your `myGHwebsite.github.io` repository, call it `setup.sh`. On line 11 change `USERNAME` for your own Github username, and on line 13 change `SOURCE` for `sources`. **ATTENTION**, this script assumes that your Github username and your website have the same name. If this is not true, make the necessary changes (add a new variable `WEBSITENAME` and use it in lines 45 and 49).
-8. Run the script only once. Type `bash setup.sh`.
-9. It is time to put your hugo website in your repository directory. Copy all what you need, make sure the website is ok, test it with `hugo server`.
-10. Now deploy your website. Download [this code](/website_setup/deploy.sh/), put it in your `myGHwebsite.github.io` repository, call it `deploy.sh`. Don't forget to change `USERNAME` and `SOURCE` in lines 13 and 15.
-11. Run `deploy.sh` whenever you want to update your website. Just type `bash deploy.sh`. No need to build the website manually, `deploy.sh` already has a `hugo` command. From my experience, it may take a few minutes for Github to show your webpage properly, even if your `hugo server` test yielded good results. Wait a little bit, it will work out.
+3. Create a new branch called "hugo": `git checkout -b hugo`
+4. Put in this "hugo" branch all the source files for your website.
+5. Generate website: type `hugo`, this creates a "public" folder
+6. Download [setup.sh](/website_setup/setup.sh/), put it together with other files in the hugo branch.
+7. Push this branch:
+    ```bash
+    git add --all
+    git commit -m "first hugo branch commit"
+    git push origin hugo
+    ```
+8. Go to Github, make "hugo" the default branch. In the repository website, you will see now "2 branches", click on it. Click on "Change default branch", and choose "sources", then update.
+9. Execute setup script (`bash setup.sh`), still in hugo branch.
+10. To make sure that "hugo" branch is in sync with "origin" (i.e. Github), repeat step 7.
+11. Download [deploy.sh](/website_setup/deploy.sh/) and execute it (`bash deploy.sh`).
+12. That's it. Now make changes to your website and see if running `deploy.sh` updates your website properly. Remember to run step number 7 before you do so.

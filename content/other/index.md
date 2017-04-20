@@ -16,4 +16,4 @@ weight: 5
 ## <i class="entypo entypo-chart-line" aria-hidden="true"></i> [Visualizations](/other/visual/)
 
 ## This website
-This website is powered by [Hugo](https://gohugo.io/), and the design is a modification I made to the [Alabaster](https://digitalcraftsman.github.io/hugo-alabaster-theme/) theme.
+This website is powered by [Hugo](https://gohugo.io/), and the design is a thorough modification I made to the [Alabaster](https://digitalcraftsman.github.io/hugo-alabaster-theme/) theme. To learn how to integrate Hugo with Githup Pages, [read this](/other/website_setup/).
