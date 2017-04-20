@@ -1,9 +1,6 @@
 ---
 date: 2017-03-11T15:14:39+02:00
 title: Jupyter
-menu:
-  main:
-    parent: "Python"
 ---
 [Home](/)/[Tutorials](/tutorials/)/[Python](/tutorials/python/)
 
