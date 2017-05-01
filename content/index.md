@@ -6,12 +6,6 @@ menu:
 weight: 10
 ---
 
-------
-## I'm at the 2017 EGU meeting. [Click here](/egu17/)
-<img src="/images/egu-logo.png" alt="egu-logo" style="width: 120px;" />
-
-------
-
 Senior Lecturer, The Department of Soil and Water Sciences  
 Robert H. Smith Faculty of Agriculture, Food and Environment  
 The Hebrew University of Jerusalem
