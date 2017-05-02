@@ -6,7 +6,7 @@ menu:
     parent: "Tutorials"
 ---
 <!-- if you are going to write equation in other pages, then just copy
-this there. You can also copy this in the footer.html, for example,
+this there, and the two scripts at the bottom of this file. You can also copy this in the footer.html, for example,
 LaTeX will be available throughout the whole site.
  -->
 <script type="text/javascript"

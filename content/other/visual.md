@@ -19,6 +19,7 @@ Here are a few thoughts on visualizations.
 * Hans Rosling, [Gapminder](https://www.gapminder.org/)
 * Max Roser, [Our World in Data](https://ourworldindata.org/)
 * Stephen Malinowski, [Music Animation Machine](https://www.youtube.com/user/smalin)
+* The Economist, [Daily Chart](http://www.economist.com/blogs/graphicdetail)
 
 ## Colors
 Don't use the <span style="color:red">r</span><span style="color:orange">a</span><span style="color:olive">i</span><span style="color:green">n</span><span style="color:teal">b</span><span style="color:blue">o</span><span style="color:fuchsia">w</span> color map.  

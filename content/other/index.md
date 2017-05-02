@@ -15,5 +15,7 @@ weight: 5
 
 ## <i class="entypo entypo-chart-line" aria-hidden="true"></i> [Visualizations](/other/visual/)
 
+## <i class="fa fa-star" aria-hidden="true"></i><sup>5</sup> [Five-star Content](/other/five-stars/)
+
 ## This website
 This website is powered by [Hugo](https://gohugo.io/), and the design is a thorough modification I made to the [Alabaster](https://digitalcraftsman.github.io/hugo-alabaster-theme/) theme. To learn how to integrate Hugo with Github Pages, [read this](/other/website_setup/).
