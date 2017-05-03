@@ -15,9 +15,12 @@ menu:
 * [The Unfolding of Language: An Evolutionary Tour of Mankind's Greatest Invention](https://www.amazon.com/Unfolding-Language-Evolutionary-Mankinds-Invention/dp/0805080120), by Guy Deutscher.
 
 ## Blogs
-* [Pythonic Perambulations](https://jakevdp.github.io/), by Jake VanderPlas.
 * [Wait but why](http://waitbutwhy.com/), by Tim Urban.
 * [Fuck Yeah Fluid Dynamics](http://fuckyeahfluiddynamics.tumblr.com/about), by Nicole Sharp.
 
 ## Short stories
 * [They're made out of meat](http://www.terrybisson.com/page6/page6.html), by Terry Bisson.
+
+## Technical stuff
+* [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page).
+* [Pythonic Perambulations](https://jakevdp.github.io/), by Jake VanderPlas.
