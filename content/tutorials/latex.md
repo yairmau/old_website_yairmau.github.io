@@ -38,9 +38,9 @@ Learn more [here](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 
 ## Presentation
 
-Make beautiful presentations using Beamer! Download a full working example of my favorite template [here](/beamer/beamer-example.zip). Click on the image below to see the full presentation.
+Make beautiful presentations using Beamer! Download a full working example of my favorite template [here](/latex/beamer/beamer-example.zip). Click on the image below to see the full presentation.
 
-[<img src="/beamer/talk-beamer.png">](/beamer/talk-template.pdf)
+[<img src="/latex/beamer/talk-beamer.png">](/latex/beamer/talk-template.pdf)
 
 ## Posters
 
@@ -49,11 +49,21 @@ Make beautiful posters with LaTeX. Download [portrait](https://bitbucket.org/yai
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/landscape.png)
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/portrait.png)
 
+## PhD Thesis
+
+This template is based on my PhD thesis, it can make your life easier!
+
+1. Download this [zip file](/latex/phd-thesis/phd_template.zip).
+2. Don't forget to read the file README.txt
+3. Enjoy!
+
+Take a look at the [compiled template](/latex/phd-thesis/phd-thesis.pdf).
+
+
 ## Hebrew
 
 A LaTeX document with Hebrew text. Download [.tex source here](https://bitbucket.org/yairmau/notebooks/raw/master/tex_heb.tex), and the [pdf here](https://bitbucket.org/yairmau/notebooks/raw/master/tex_heb.pdf).
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/heb_2pages.png)
-
 
 
 

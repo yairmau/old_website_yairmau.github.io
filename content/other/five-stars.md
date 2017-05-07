@@ -20,6 +20,7 @@ menu:
 
 ## Short stories
 * [They're made out of meat](http://www.terrybisson.com/page6/page6.html), by Terry Bisson.
+* [The Sentinel](http://future-lives.com/wp-content/uploads/2014/09/TheSentinel.pdf), by Arthur C. Clarke.
 
 ## Technical stuff
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page).

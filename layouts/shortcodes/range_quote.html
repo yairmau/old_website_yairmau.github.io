@@ -1,4 +1,4 @@
-{{ $sec := .Page.Now.Second }}
+{{ $sec := now.Second }}
 {{ $quotes := getJSON "data/quotes.json" }}
 {{ $modsec := mod $sec (len $quotes)}}
 {{ $random := mod $sec (len $quotes) }}
