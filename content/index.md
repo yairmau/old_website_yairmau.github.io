@@ -36,6 +36,9 @@ The Hebrew University of Jerusalem
 <a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button" target="_blank">Google scholar profile</a>
 </p>
 
+-----
+{{< random_quote >}}
+
 <!-- Group of Elements 
 <ul>
   <li class="zocial-twitter"></li>

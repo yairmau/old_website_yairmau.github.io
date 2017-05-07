@@ -1,0 +1,7 @@
+{{ $sec := .Page.Now.Second }}
+{{ $quotes := getJSON "data/quotes.json" }}
+{{ $modsec := mod $sec (len $quotes)}}
+{{ $random := mod $sec (len $quotes) }}
+{{ index $quotes $modsec "quote" }}
+<br>
+<b>{{ index $quotes $modsec "author" }}</b>
