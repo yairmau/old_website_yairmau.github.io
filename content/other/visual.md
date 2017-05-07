@@ -32,3 +32,6 @@ So how should you choose the colors for a graph?
 * Visit [Adobe Color CC](https://color.adobe.com/create/color-wheel/). It gives you much more freedom to play with the colors than colorbrewer. Use it wisely!
 
 More on color: read [Subtleties of Color](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/), by Robert Simmon.
+
+## Browse for ideas
+* [The Data Visualisation Catalogue](http://datavizcatalogue.com/index.html)
