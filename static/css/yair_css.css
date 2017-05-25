@@ -67,11 +67,20 @@ div.sphinxsidebar a {
 }
 
 div.sphinxsidebar {
-    background: #ffffff;
+    background: #ffffff; /* #f1f1f1 */
     border-right: 0px solid #888888;
     width: 200px;
+    top: 0;
 }
-
+div.sphinxsidebarwrapper {
+    position: fixed;
+    width: 180px;
+}
+/*
+body {
+    background-color: #f1f1f1;
+}
+*/
 div.body {
     background-color: #ffffff;
     color: #3E4349;
@@ -200,6 +209,15 @@ div.sphinxsidebarwrapper h1.logo-name {
         padding: 10px 20px;
         background: #333;
         color: #FFF;
+    }
+
+    div.sphinxsidebarwrapper {
+        position: absolute;
+        width: 102.5%;
+/*        background: #333;
+        color: #FFF;
+        padding: 10px 20px;*/
+
     }
 
     div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p,

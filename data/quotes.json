@@ -80,7 +80,7 @@
     },
 
     {
-    "author": "Ernest Cline, Ready Player One",
+    "author": "Ernest Cline, <i>Ready Player One</i>",
     "quote": "You’d be amazed how much research you can get done when you have no life whatsoever."
     },
 
@@ -100,7 +100,7 @@
     },
 
     {
-    "author": "Pedro Domingos, The Master Algorithm",
+    "author": "Pedro Domingos, <i>The Master Algorithm</i>",
     "quote": "The most important thing about an equation is all the quantities that don’t appear in it; once we know what the essentials are, figuring out how they depend on each other is often the easier part."
     },
 
@@ -110,8 +110,8 @@
     },
 
     {
-    "author": "John Tukey, The future of data analysis",
-    "quote": "Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise."
+    "author": "John Tukey, <i>The future of data analysis</i>",
+    "quote": "Far better an approximate answer to the <i>right</i> question, which is often vague, than an <i>exact</i> answer to the wrong question, which can always be made precise."
     }
 
 ]

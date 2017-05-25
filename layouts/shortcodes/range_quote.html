@@ -13,9 +13,9 @@
         <b>{{ index $quotes . "author" }}</b>
         </blockquote></blockquote>
     {{ else }}
-        {{ index $quotes . "quote" }}
+        {{ index $quotes . "quote" | markdownify }}
         <br>
-        <b>{{ index $quotes . "author" }}</b>
+        <b>{{ index $quotes . "author" | markdownify }}</b>
         <br>
     {{ end }}
     <br>

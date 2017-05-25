@@ -2,6 +2,6 @@
 {{ $quotes := getJSON "data/quotes.json" }}
 {{ $modsec := mod $sec (len $quotes)}}
 {{ $random := mod $sec (len $quotes) }}
-{{ index $quotes $modsec "quote" }}
+{{ index $quotes $modsec "quote" | markdownify}}
 <br>
-<b>{{ index $quotes $modsec "author" }}</b>
+<b>{{ index $quotes $modsec "author" | markdownify}}</b>
