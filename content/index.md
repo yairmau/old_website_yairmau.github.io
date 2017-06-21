@@ -37,7 +37,9 @@ The Hebrew University of Jerusalem
 </p>
 
 -----
-{{< random_quote >}}
+The purpose of computing is insight, not numbers.  
+**Richard Hamming**
+<!-- {{< random_quote >}} -->
 
 <!-- Group of Elements 
 <ul>
