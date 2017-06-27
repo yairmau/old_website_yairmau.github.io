@@ -21,6 +21,7 @@ menu:
 ## Short stories
 * [They're made out of meat](http://www.terrybisson.com/page6/page6.html), by Terry Bisson.
 * [The Sentinel](http://future-lives.com/wp-content/uploads/2014/09/TheSentinel.pdf), by Arthur C. Clarke.
+* [On Exactitude in Science](https://kwarc.info/teaching/TDM/Borges.pdf), by Jorge Luis Borges.
 
 ## Technical stuff
 * [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page).
