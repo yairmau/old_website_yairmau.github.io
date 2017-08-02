@@ -8,9 +8,9 @@
 {{ range $array }}
     {{ if eq 1 (mod . 2) }}
         <blockquote><blockquote>
-        {{ index $quotes . "quote" }}
+        {{ index $quotes . "quote" | markdownify }}
         <br>
-        <b>{{ index $quotes . "author" }}</b>
+        <b>{{ index $quotes . "author" | markdownify }}</b>
         </blockquote></blockquote>
     {{ else }}
         {{ index $quotes . "quote" | markdownify }}

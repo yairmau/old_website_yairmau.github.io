@@ -37,6 +37,15 @@ The Hebrew University of Jerusalem
 </p>
 
 -----
+## <i class="fa fa-bullhorn" aria-hidden="true"></i> Join our group!
+Research project for graduate students. [Read more here.](/group/join)
+
+<!-- {{< admonition title="[Join our group!]" type="allert" >}}
+ [Read more here](/group/join).
+{{< /admonition >}} -->
+
+
+-----
 The purpose of computing is insight, not numbers.  
 **Richard Hamming**
 <!-- {{< random_quote >}} -->
