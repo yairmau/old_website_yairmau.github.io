@@ -12,6 +12,7 @@ Python is a great language for scientific computing, most of the programming don
 
 Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found.
 
+* <a href="http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb" target="_blank">Python Data Science Handbook</a>
 * <a href="https://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way</a>
 * <a href="http://nbviewer.jupyter.org/gist/rpmuller/5920182" target="_blank">A Crash Course in Python for Scientists</a>
 * <a href="http://swcarpentry.github.io/python-novice-inflammation/" target="_blank">Software Carpentry</a>

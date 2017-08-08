@@ -117,7 +117,12 @@
     {
     "author": "John Tukey, <i>The future of data analysis</i>",
     "quote": "Far better an approximate answer to the <i>right</i> question, which is often vague, than an <i>exact</i> answer to the wrong question, which can always be made precise."
-    }
+    },
+
+    {
+    "author": "Buckheit and Donoho (1995)",
+    "quote": "An article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result."
+    }    
 
 ]
 
