@@ -17,9 +17,12 @@ The Hebrew University of Jerusalem
 {{< /admonition >}})
 
 {{< admonition title="How to find me " type="note" >}}
-<i class="entypo entypo-mail" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il  
-<i class="entypo entypo-phone" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386  
-<i class="entypo entypo-address" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span>  Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>.
+<i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il  
+<!-- <i class="entypo entypo-mail" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il   -->
+<i class="fa fa-phone fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386  
+<!-- <i class="entypo entypo-phone" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386   -->
+<!-- <i class="fa fa-map-signs fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span>  Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>. -->
+<i class="entypo entypo-address" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span>  Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
 {{< /admonition >}}
 
 ## <i class="entypo entypo-vcard" aria-hidden="true"></i> Academic Bio​ 

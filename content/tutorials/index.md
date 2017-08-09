@@ -7,6 +7,6 @@ weight: 4
 
 [Home](/)/[Tutorials](/tutorials/)
 
-## <i class="icon-python"></i> [Python tutorial](/tutorials/python/)
+## <span style="display:inline-block; width: 0.1em;"></span> <i class="icon-python"></i>  [Python tutorial](/tutorials/python/)
 
 ## <i class="entypo entypo-language"></i> [LaTeX tutorial](/tutorials/latex/)
