@@ -40,7 +40,7 @@ Learn more [here](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 
 Make beautiful presentations using Beamer! Download a full working example of my favorite template [here](/latex/beamer/beamer-example.zip). Click on the image below to see the full presentation.
 
-[<img src="/latex/beamer/talk-beamer.png">](/latex/beamer/talk-template.pdf)
+<a href="/latex/beamer/talk-template.pdf" target="_blank"><img src="/latex/beamer/talk-beamer.png"></a>
 
 ## Posters
 

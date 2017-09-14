@@ -7,10 +7,10 @@ menu:
 ---
 [Home](/)/[Tutorials](/tutorials/)/[Python](/tutorials/python/)
 
-Python is a great language for scientific computing, most of the programming done by our group is in python. We provide below some links for learning this language, and below we offer many examples of python codes so that the reader can learn by example. You are invited to download these codes, tweak with them, break them, hack them as you wish!
+Python is a great language for scientific computing, most of the programming done by our group is in python. We provide below some links for learning this language, and below we offer many python code examples. You are invited to download these codes, tweak with them, break them, hack them as you wish!
 
 
-Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found.
+Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found. Some useful links for learning python:
 
 * <a href="http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb" target="_blank">Python Data Science Handbook</a>
 * <a href="https://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way</a>
@@ -29,20 +29,21 @@ Make sure you are acquainted with ipython (interactive python, <a href="https://
 ​
 I recommend <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a> for writing code, and you can install the Anaconda package to it to have a smooth IDE. [not the same anaconda as mentioned above! Yes, it's confusing, I know.]
 
-Python tutorial.
+<a href="https://trinket.io/" target="_blank">Trinket.io</a> lets you run python scripts online! Run (<i class="fa fa-play" aria-hidden="true"></i>) this, and edit it as you wish:
+<iframe src="https://trinket.io/embed/python/cc05d913b4" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-```python
+<!-- ```python
 import numpy as np
 for i in np.arange(10):
     print(i*0.2)
-```
+``` -->
 **************************************************
 
 ## Conway's Game of Life, acorn initial condition
 
 <a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/life.ipynb" target="_blank">Jupyter notebook</a>
 
-This is a (slightly) modified version of Glowing Python's code. I make it available here because it features a few nice things:
+This is a (slightly) modified version of <a href="https://glowingpython.blogspot.co.il/2015/10/game-of-life-with-python.html" target="_blank">Glowing Python</a>'s code. I make it available here because it features a few nice things:
 
 * how to make a movie using matplotlib.animation
 * how to write a generator (function with yield)
@@ -190,13 +191,3 @@ Main features:
 `unicode, bar, barh, grid`
 
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/bars.png)
-
-<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/bars.ipynb" target="_blank">Jupyter notebook</a>
-
-
- First Header  | Second Header
-  ------------- | -------------
-  Content Cell  | Content Cell
-  Content Cell  | Content Cell
-
-<iframe src="https://trinket.io/embed/python/3d8d7ce66b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
