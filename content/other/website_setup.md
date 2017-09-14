@@ -11,13 +11,13 @@ These instructions are based on this [blog post](https://hjdskes.github.io/blog/
 2. Locally, do the following:
     
     ```bash
-    mkdir yairmau.github.io
-    cd yairmau.github.io
-    echo "# yairmau.github.io" >> README.md
+    mkdir username.github.io
+    cd username.github.io
+    echo "# username.github.io" >> README.md
     git init
     git add README.md
     git commit -m "first commit"
-    git remote add origin https://github.com/yairmau/yairmau.github.io.git
+    git remote add origin https://github.com/username/username.github.io.git
     git push -u origin master
     ```
 3. Create a new branch called "hugo": `git checkout -b hugo`
