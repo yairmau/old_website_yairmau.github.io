@@ -10,7 +10,9 @@ menu:
 Python is a great language for scientific computing, most of the programming done by our group is in python. We provide below some links for learning this language, and below we offer many python code examples. You are invited to download these codes, tweak with them, break them, hack them as you wish!
 
 
-Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found. Some useful links for learning python:
+Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found. 
+
+Some useful links for learning python:
 
 * <a href="http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb" target="_blank">Python Data Science Handbook</a>
 * <a href="https://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way</a>
@@ -22,6 +24,9 @@ Most codes focus on plotting, but other algorithms such as numerical integration
 * <a href="https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks" target="_blank">A gallery of interesting IPython Notebooks</a>
 * <a href="http://greenteapress.com/thinkpython/html/index.html" target="_blank">Think Python: How to Think Like a Computer Scientist</a>
 ​
+
+This might be overwhelming, so I suggest you to follow this:
+<center> {{< tweet 906901174728536066 >}} </center>
 
 Start by downloading <a href="https://www.continuum.io/downloads" target="_blank">Anaconda</a>, a package manager application that will help you get started with python in all platforms.
 ​
