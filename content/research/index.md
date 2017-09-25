@@ -51,11 +51,6 @@ In particular, we would like to study the influence of random rainfall events an
 
 ### <i class="fa fa-tree" aria-hidden="true"></i> Tree water balance in a semiarid pine forest and rates of survival under global climate change
 
-
-
-<p>I will display &#9824;<p>
-
-
 Longer droughts and temperature rise impose severe risks of widespread forest mortality.
 Drought-adapted trees in semiarid and arid ecosystems cope with water stress by regulating their transpiration rate, thus saving internal water content and avoiding 
 runaway decline in water potential.
