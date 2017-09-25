@@ -21,7 +21,7 @@
     </li>
   {{ else }}
     <li class="toctree-l1">
-      <a href="{{ .URL }}" class="{{ if $is }}active{{end}}">{{ .Name }}</a>
+      <a href="{{ .URL }}" class="{{ if $is }}active{{end}}">{{ .Pre }}{{ .Name }} </a>
     </li>
   {{ end }}
 {{ end }}

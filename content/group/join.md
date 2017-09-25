@@ -19,7 +19,6 @@ Drought-adapted trees in semiarid and arid ecosystems cope with water stress by 
 runaway decline in water potential.
 
 Our goal is to characterize how trees manage their water budget in order to increase survival probability under prolonged drought periods.
-<!-- Furthermore, we wish to understand the relative role of soil water stress and vapor pressure deficit on the tree strategies for maintaining its internal water storage. -->
 
 Our group will approach these objectives by *modeling* the soil-tree-atmosphere water transport to assess tree survival probability for current and future climate scenarios.
 A collaboration with an experimental group will provide us data from a research station in the Yatir forest, in the Negev desert (see map above).
