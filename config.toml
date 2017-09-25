@@ -1,4 +1,4 @@
-baseurl = "https://yairmau.com/"
+baseurl = "https://yairmau.github.io/"
 languageCode = "en-us"
 metadataformat = "yaml"
 title = "Yair Mau"
@@ -31,12 +31,11 @@ googleAnalytics = "UA-78726339-1"
 	show_relations = false
 
 [params.footer]
-	copyright = "[Yair Mau](https://yairmau.com)"
+	copyright = "[Yair Mau](https://yairmau.github.io)"
 	show_powered_by = true
 
  [[menu.main]]
-  name   = ""
-  pre = "<i class='fa fa-home fa-2x fa-fw'></i>"
+  name   = "Home"
   identifier = "home"
   url    = "/"
   weight = 0
