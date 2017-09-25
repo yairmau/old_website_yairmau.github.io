@@ -39,9 +39,10 @@ The Hebrew University of Jerusalem
 <a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button" target="_blank">Google scholar profile</a>
 </p>
 
+<!--
 -----
 ## <i class="fa fa-bullhorn" aria-hidden="true"></i> Join our group!
-Research project for graduate students. [Read more here.](/group/join)
+Research project for graduate students. [Read more here.](/group/join) -->
 
 <!-- {{< admonition title="[Join our group!]" type="allert" >}}
  [Read more here](/group/join).
@@ -49,8 +50,8 @@ Research project for graduate students. [Read more here.](/group/join)
 
 
 -----
-The purpose of computing is insight, not numbers.  
-**Richard Hamming**
+Nothing is more practical than a good theory.  
+**Kurt Lewin**
 <!-- {{< random_quote >}} -->
 
 <!-- Group of Elements 
