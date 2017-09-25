@@ -6,9 +6,10 @@ menu:
 weight: 10
 ---
 
-Senior Lecturer, The Department of Soil and Water Sciences  
-Robert H. Smith Faculty of Agriculture, Food and Environment  
-The Hebrew University of Jerusalem
+**Senior Lecturer** [equivalent to Assistant Professor in the USA]  
+The Department of **Soil and Water Sciences**  
+Robert H. Smith **Faculty of Agriculture, Food and Environment**  
+**The Hebrew University of Jerusalem**
 
 [//]: # (​{{< admonition title="How to find me" type="note" >}}
 **email:** `yair.mau at mail.huji.ac.il`  

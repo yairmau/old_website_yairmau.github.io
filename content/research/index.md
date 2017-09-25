@@ -23,7 +23,7 @@ Some of the tools we use in the modeling of environmental questions come from dy
 We are recruiting excellent students to our group!
 Here you can find some more detail on our current projects.
 
-## <i class="entypo entypo-rocket"></i> Projects
+## <!-- &#128640; --> <i class="entypo entypo-rocket"></i> Projects
 
 ### <i class="entypo entypo-alert" aria-hidden="true"></i> Soil salinization
 
@@ -50,6 +50,11 @@ We would like to understand how the nonlinear dynamics of nitrogen and carbon cy
 In particular, we would like to study the influence of random rainfall events and a changing climate in driving these cycles.
 
 ### <i class="fa fa-tree" aria-hidden="true"></i> Tree water balance in a semiarid pine forest and rates of survival under global climate change
+
+
+
+<p>I will display &#9824;<p>
+
 
 Longer droughts and temperature rise impose severe risks of widespread forest mortality.
 Drought-adapted trees in semiarid and arid ecosystems cope with water stress by regulating their transpiration rate, thus saving internal water content and avoiding 
