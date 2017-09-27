@@ -65,6 +65,8 @@ Take a look at the [compiled template](/latex/phd-thesis/phd-thesis.pdf).
 A LaTeX document with Hebrew text. Download [.tex source here](https://bitbucket.org/yairmau/notebooks/raw/master/tex_heb.tex), and the [pdf here](https://bitbucket.org/yairmau/notebooks/raw/master/tex_heb.pdf).
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/heb_2pages.png)
 
+See below a really practical use of the tools provided above. This is an exercise list in hebrew. Download [.tex source here](https://bitbucket.org/yairmau/notebooks/raw/master/targilim.tex), and the [pdf here](https://bitbucket.org/yairmau/notebooks/raw/master/targilim.pdf).
+![](/latex/targilim.png)
 
 
 <script type="text/x-mathjax-config">
