@@ -69,12 +69,12 @@ div.admonition {
     padding-bottom: 0px;
     padding-top: 15px;
     background-color: #ffffff;
-    border-color: #00a695;
+    border-color: #e2dfd0;
     border-width: 4px;
 }
 
 .button {
-    background-color: #1be2ce;
+    background-color: #e2dfd0;
     border: none;
     color: black;
     padding: 10px 20px;
@@ -119,10 +119,10 @@ div.body {
     padding: 0 30px 0 30px;
     border-right-width: 4px;
     border-right-style: inset;
-    border-right-color: #00665c;
+    border-right-color: #43523a;
     border-left-width: 4px;
     border-left-style: outset;
-    border-left-color: #00665c;
+    border-left-color: #43523a;
     font-family: 'Noto Sans', 'Montserrat';
 }
 
@@ -238,7 +238,7 @@ div.sphinxsidebarwrapper h1.logo-name {
         content: "\f068"; /*" \f292 \f178";*/
         text-decoration: none;
         font-size: 14px;
-        color: #80fff2;
+        color: #AAA;
     }
     div.sphinxsidebar {
         display: block;
@@ -253,14 +253,10 @@ div.sphinxsidebarwrapper h1.logo-name {
     div.sphinxsidebarwrapper {
         position: absolute;
         width: 102.5%;
-        background: #00665c;
+        background: #333;
         color: #FFF;
         padding: 10px 20px;
 
-    }
-
-    div.sphinxsidebarwrapper h3 {
-        color: red;
     }
 
     div.sphinxsidebar h3, div.sphinxsidebar h4, div.sphinxsidebar p,
@@ -268,13 +264,8 @@ div.sphinxsidebarwrapper h1.logo-name {
         color: white;
     }
 
-    div.sphinxsidebarwrapper h3, div.sphinxsidebarwrapper h4, div.sphinxsidebarwrapper p,
-    div.sphinxsidebarwrapper h3 a {
-        color: white;
-    }
-
     div.sphinxsidebar a {
-        color: #80fff2;
+        color: #AAA;
     }
 
     div.sphinxsidebar p.logo {
