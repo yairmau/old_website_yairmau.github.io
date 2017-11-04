@@ -1,7 +1,7 @@
 baseurl = "https://yairmau.github.io/"
 languageCode = "en-us"
 metadataformat = "yaml"
-title = "Yair Mau"
+title = "Yair Mau | Environmental Modeling"
 theme = "hugo-alabaster-theme"
 
 disqusShortname = ""
@@ -10,7 +10,8 @@ googleAnalytics = "UA-78726339-1"
 [params]
 	name = "Yair Mau"
 	university = "The Hebrew University of Jerusalem"
-    description = "Environmental Modeling"
+    tagline = "Environmental Modeling"
+    description = "Faculty member at The Hebrew University of Jerusalem, The Department of Soil and Water Sciences"
 	# github_user   = "digitalcraftsman"
 	# github_repo   = "hugo-alabaster-theme"
 	github_banner = false

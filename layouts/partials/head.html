@@ -32,10 +32,12 @@
 <!-- Read more: http://html.com/tags/comment-tag/#ixzz4cnbt4r00 -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
-
+<!-- http://blog.el-chavez.me/2015/11/26/go-hugo-seo/ -->
 <meta content="{{ delimit .Keywords ", " }}" name="keywords">
 <!-- <title>{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
 -->
+
+
 <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}" property="og:title">
 <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }} - {{ .Description }}{{ end }}" property="og:description">
 

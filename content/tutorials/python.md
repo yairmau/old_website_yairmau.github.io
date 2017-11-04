@@ -1,6 +1,7 @@
 ---
 date: 2017-03-11T15:14:39+02:00
 title: Python
+description: Many practical examples of python visualizations
 menu:
   main:
     parent: "Tutorials"
