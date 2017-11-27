@@ -7,6 +7,9 @@ theme = "hugo-alabaster-theme"
 disqusShortname = ""
 googleAnalytics = "UA-78726339-1"
 
+pageNotFoundTitle = ""
+pageNotFoundSubtitle = ""
+
 [params]
 	name = "Yair Mau"
 	university = "The Hebrew University of Jerusalem"
