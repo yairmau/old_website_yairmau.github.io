@@ -11,7 +11,8 @@ The Department of **Soil and Water Sciences**
 Robert H. Smith **Faculty of Agriculture, Food and Environment**  
 **The Hebrew University of Jerusalem**
 
-<br/>
+<hr style="width:100%;height:7px;border:none;color:#6c7053;background-color:#6c7053;">
+<!-- <br/> -->
 ## About
 I'm interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems.
 Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems.

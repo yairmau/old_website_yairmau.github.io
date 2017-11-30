@@ -22,5 +22,6 @@ weight: 5
 ## <i class="fa fa-star fa-fw" aria-hidden="true"></i> [Five-star Content](/other/five-stars/)
 <!-- ## <i class="fa fa-star" aria-hidden="true"></i><sup>5</sup> [Five-star Content](/other/five-stars/) -->
 
+<br/>
 ## This website
 This website is powered by [Hugo](https://gohugo.io/), and the design is a thorough modification I made to the [Alabaster](https://digitalcraftsman.github.io/hugo-alabaster-theme/) theme. To learn how to integrate Hugo with Github Pages, [read this](/other/website_setup/).

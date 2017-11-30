@@ -12,8 +12,5 @@ weight: 3
 
 [a graph]({{< relref "tutorials/python.md#the-time-dependent-ginzburg-landau-equation" >}})
 -->
-
-
-  |  
-  ------------- | -------------
-  <img src="/images/yair-outdoors-640x400.jpg" alt="yair" style="width: 300px;"/>  | Yair Mau, PI
+Yair Mau, PI <br/>
+<img src="/images/yair-outdoors-640x400.jpg" alt="yair" style="width: 600px;"/>
