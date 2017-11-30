@@ -10,7 +10,7 @@ weight: 1
 ## <i class="entypo entypo-flashlight"></i> Interests
 
 I'm interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems.
-Our goal is to understand how the basic processes and feedbacks influence how the system changes in time, and how this knowledge can be used to control those systems.
+Our goal is to understand how the basic processes and feedbacks influence how the ecosystem changes in time, and how this knowledge can be used to control those systems.
 ​
 
 The common theme between my different research projects is land/ecosystem degradation caused by human activity.

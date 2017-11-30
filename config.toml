@@ -1,7 +1,7 @@
 baseurl = "https://yairmau.github.io/"
 languageCode = "en-us"
 metadataformat = "yaml"
-title = "Yair Mau | Environmental Modeling"
+title = "Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem"
 theme = "hugo-alabaster-theme"
 
 disqusShortname = ""
@@ -14,7 +14,7 @@ pageNotFoundSubtitle = ""
 	name = "Yair Mau"
 	university = "The Hebrew University of Jerusalem"
     tagline = "Environmental Modeling"
-    description = "Faculty member at The Hebrew University of Jerusalem, The Department of Soil and Water Sciences"
+    description = "Faculty member at The Hebrew University of Jerusalem, The Department of Soil and Water Sciences. My background is in Physics, and my current research interests are: soil degradation, desertification, soil salinity, desert ecosystem modeling, ecohydrology, pattern formation, nonlinear dynamics."
 	# github_user   = "digitalcraftsman"
 	# github_repo   = "hugo-alabaster-theme"
 	github_banner = false

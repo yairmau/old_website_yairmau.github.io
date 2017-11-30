@@ -1,25 +1,41 @@
 <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
 	<div class="sphinxsidebarwrapper">
 
-		{{ with .Site.Params.tagline -}}
+		<!-- {{ with .Site.Params.tagline -}}
 		<p class="blurb">{{ . | markdownify }}</p>
-		{{- end }}
+		{{- end }} -->
 
 		<p class="logo">
 			<a href="{{ .Site.BaseURL }}">
 				{{ with .Site.Params.sidebar.logo -}}
 					<img class="logo" src="{{ $.Site.BaseURL }}{{ . }}" alt="Logo"/>
 				{{- end }}
-				<h1 class="logo logo-name">{{ .Site.Params.name }}</h1>
-				{{ with .Site.Params.university -}}
+				<!-- <h1 class="logo logo-name">{{ .Site.Params.name }}</h1> -->
+				<!-- {{ with .Site.Params.university -}}
 		        <p class="blurb">{{ . | markdownify }}</p>
-		        {{- end }}
+		        {{- end }} -->
 			</a>
 		</p>
 		{{ partial "sidebar/buttons" . }}
 		{{ partial "sidebar/donate" . }}
 		{{ partial "sidebar/menu_include" . }}
 		{{ partial "sidebar/relations" . }}
+
+<div class="sideexplanation">
+<span style="font-size:180%">Yair Mau</span></br>
+<hr style="width:100%;">
+Environmental Modeling</br>
+<hr style="width:100%;">
+The Hebrew University</br>of Jerusalem
+</div>
+
+<!-- 		<h1 class="logo logo-name">{{ .Site.Params.name }}</h1>
+		{{ with .Site.Params.tagline -}}
+		    <p class="blurb">{{ . | markdownify }}</p>
+		{{- end }}
+		{{ with .Site.Params.university -}}
+		    <p class="blurb">{{ . | markdownify }}</p>
+		{{- end }} -->
 	</div>
 </div>
 <div class="clearer"></div>
