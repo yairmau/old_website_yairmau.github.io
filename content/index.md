@@ -6,7 +6,7 @@ menu:
 weight: 10
 ---
 
-**Senior Lecturer** [equivalent to Assistant Professor in the USA]  
+**Senior Lecturer** [equivalent to Assistant Professor]  
 The Department of **Soil and Water Sciences**  
 Robert H. Smith **Faculty of Agriculture, Food and Environment**  
 **The Hebrew University of Jerusalem**
