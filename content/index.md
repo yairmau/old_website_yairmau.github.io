@@ -14,7 +14,7 @@ Robert H. Smith **Faculty of Agriculture, Food and Environment**
 <br/>
 ## About
 I'm interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems.
-Our goal is to understand how the basic processes and feedbacks influence how the ecosystem changes in time, and how this knowledge can be used to control those systems.
+Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems.
 ​
 
 The common theme between my different research projects is land/ecosystem degradation caused by human activity.
@@ -25,6 +25,8 @@ Some of the tools we use in the modeling of environmental questions come from dy
 
 
 \[[Read more on current research projects...](/research/)\]
+
+I love to write code, and I made available on the [Tutorials](/tutorials/) page some working examples in Python and LaTeX. Check it out!
 <!-- {{< admonition title="How to find me " type="note" >}}
 <i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il  
 <i class="fa fa-phone fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386  

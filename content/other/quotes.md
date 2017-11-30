@@ -10,4 +10,4 @@ menu:
 
 [Home](/)/[Other](/other/)/[Quotes](/other/quotes/)
 
-<!-- {{< range_quote >}} -->
+{{< range_quote >}}
