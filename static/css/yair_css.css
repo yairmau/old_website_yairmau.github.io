@@ -427,3 +427,27 @@ div.sphinxsidebarwrapper h1.logo-name {
   font-family: FontAwesome;
   content: "\f0fe";
 }
+
+
+.bibreveal a {
+    text-decoration: none;
+}
+
+.bibreveal {
+  display: inline;
+  text-decoration: none;
+}
+.bibreveal.more:after {
+  font-family: FontAwesome;
+  content: "\f0fe";
+  text-decoration: none;
+}
+.bibreveal.less:after {
+  font-family: FontAwesome;
+  content: "\f146";
+  text-decoration: none;
+}
+.bibslider {
+  display: none;
+  text-decoration: none;
+}

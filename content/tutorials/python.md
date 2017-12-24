@@ -47,7 +47,7 @@ for i in np.arange(10):
 
 ## Conway's Game of Life, acorn initial condition
 
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/life.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/life.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 This is a (slightly) modified version of <a href="https://glowingpython.blogspot.co.il/2015/10/game-of-life-with-python.html" target="_blank">Glowing Python</a>'s code. I make it available here because it features a few nice things:
 
@@ -63,7 +63,7 @@ Main features:
 **************************************************
 
 ## Least squares fit of nonlinear function
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/least-squares.ipynb" target="_blank">Jupyter notebook</a>  
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/least-squares.ipynb" class="button" target="_blank">Jupyter notebook</a>  
 
 Main features:
 `LaTeX text, scipy.optimize.curve_fit, matplotlib.patches`  
@@ -72,7 +72,7 @@ Main features:
 **************************************************
 
 ## Fun with histograms
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/histogram.ipynb" target="_blank">Jupyter notebook</a>  
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/histogram.ipynb" class="button" target="_blank">Jupyter notebook</a>  
 
 Main features:
 `np.histogram, plt.hist, plt.bar, plt.barh, gridspec, least squares fit of nonlinear function, plt.hist2d`  
@@ -82,7 +82,7 @@ Main features:
 
 ## Fancy subplot grid
 
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/subplot-grid.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/subplot-grid.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Highly customizable subplot structure. Also, figure contains several axis configurations and labeling options.  
 Main features:
@@ -93,7 +93,7 @@ Main features:
 
 ## Streamplot
 
-<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/linear-system.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/linear-system.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Streamplot of a two-dimensional linear system, with eigenvectors and nullclines. Python shows LaTeX equations beautifully.  
 Main features:
@@ -104,7 +104,7 @@ Main features:
 
 ## The time dependent Ginzburg-Landau equation
 
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/tdgle.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/tdgle.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Numerical integration of a parabolic partial differential equation, using finite differences: Euler step to advance time, and a 5-point stencil to approximate the Laplacian.  
 Main features:
@@ -116,7 +116,7 @@ Main features:
 
 ## The double pendulum
 
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/double-pendulum.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/double-pendulum.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Numerical integration of the equations of motion of the double pendulum. This time, scipy's ode itegrator was used. Nice example of how to make a movie.  
 Main features:
@@ -128,7 +128,7 @@ Main features:
 
 ## The Hilbert curve
 
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/hilbert-curve.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/hilbert-curve.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Construction of the Hilbert curve as a Lindenmayer system (L-system).  
 Main features:
@@ -141,7 +141,7 @@ Main features:
 
 ## A hysteresis mechanism
 
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/hysteresis.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/hysteresis.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Hysteresis mechanism created by the bistability of states. System goes to minimum points u in the energy functional f=u^4-2u^2+hu. The the parameter h is ramped down and up during this simulation.  
 Main features:
@@ -153,7 +153,7 @@ Main features:
 
 ## Contour plot
 
-<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/contours.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/contours.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Contour plot with many customizable options. Also, a nice way to truncate a colormap so it gives the color range that you want.  
 Main features:
@@ -165,7 +165,7 @@ Main features:
 
 ## Drowning person problem
 
-<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/sea-sand.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/sea-sand.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 How should ​lifeguard run in order to save a drowning person in minimal time? Answer: by using Snell's law of refraction!  
 This is a nice example how to use spines (x and y axis form a cross), instead of rectangular figures as usual. Also, "annotations" are used, where things can be labeled with the help of arrows.  
@@ -178,7 +178,7 @@ Main features:
 
 ## This website's logo
 
-<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/website-logo.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/website-logo.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Simple example of how to make a figure without any visible axes.  
 Main features:
@@ -190,7 +190,7 @@ Main features:
 
 ## Bars
 
-<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/bars.ipynb" target="_blank">Jupyter notebook</a>
+<a href="http://nbviewer.ipython.org/urls/bitbucket.org/yairmau/notebooks/raw/master/bars.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Horizontal and vertical bars, with numeric legends. Unicode support.  
 Main features:
