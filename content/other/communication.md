@@ -1,13 +1,48 @@
 ---
 date: 2017-03-11T15:14:39+02:00
-title: Visualizations
+title: Science Communication
 menu:
   main:
     parent: "Other"
     weight: 4
 ---
 
-[Home](/)/[Other](/other/)/[Visualizations](/other/visual/)
+[Home](/)/[Other](/other/)/[Science Communication](/other/communication/)
+
+<!-- [visualizations](#visualizations)
+[talks](#talks) -->
+
+# Talks
+
+A scientific talk **is not** a scientific paper, it is a completely different medium! Here are a few tips of how to thing of scientific talks.
+
+<center>
+![](/images/phd-comics-presentation.jpg)  
+<a href="https://jorgecham.com/" target="_blank">Cartoon by Jorge Cham</a>
+</center>
+
+## How To Give a Talk
+
+[How To Give a Talk, by David L Stern.](http://www.howtogiveatalk.com/)
+
+**Excerpt:**
+
+> **Principle 1 - Don't Put Words On Slides**  
+It may not seem intuitive, but including words on slides has a bigger detrimental effect on the quality of a talk than any other issue I will address. 
+
+> The slides in most science talks contain many words. This simple fact has many consequences, none positive. Most obviously, words on slides impel listeners to read the words on the slide. If you are talking while they are reading, then you generate cognitive dissonance that makes it difficult for the audience to understand either your spoken words or your written words. So, if you want your audience to read the words on a slide, then, presumably, you should shut up. But, I don’t recommend that. Instead, just cut all the words form your slides. 
+
+## The David Attenborough Style of Scientific Presentation
+
+[The David Attenborough Style of Scientific Presentation](https://www.dropbox.com/s/j1vv2baheiduvip/David%20Attenborough%20talk%20technique%202018.pdf?dl=0)
+
+**Excerpt:**
+
+> Get into this mindset: your main job is to be an entertainer, not a scientist. Most scientists don’t do this, which is why most scientific talks are bad. The fact of the matter is that if the audience doesn’t understand and enjoy your talk, they won’t care if your science is good. 
+
+----------
+
+# Visualizations
 
 Visualizations can take a message very, very far.
 I put a lot of thinking into how to best express an idea.

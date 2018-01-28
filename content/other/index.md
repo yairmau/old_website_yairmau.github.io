@@ -16,7 +16,7 @@ weight: 5
 <!-- ## <i class="entypo entypo-camera" aria-hidden="true"></i> [Photos](/other/photos/)
  -->
 
-## <i class="fa fa-area-chart fa-fw" aria-hidden="true"></i> [Visualizations](/other/visual/)
+## <i class="fa fa-area-chart fa-fw" aria-hidden="true"></i> [Science Communication](/other/communication/)
 <!-- ## <i class="entypo entypo-chart-line" aria-hidden="true"></i> [Visualizations](/other/visual/) -->
 
 ## <i class="fa fa-star fa-fw" aria-hidden="true"></i> [Five-star Content](/other/five-stars/)
