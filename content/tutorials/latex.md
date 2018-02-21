@@ -38,9 +38,11 @@ Learn more [here](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 
 ## Presentation
 
-Make beautiful presentations using Beamer! Download a full working example of my favorite template [here](/latex/beamer/beamer-example.zip). Click on the image below to see the full presentation.
+Make beautiful presentations using Beamer! Download a full working example of my favorite template [here](/latex/beamer/beamer-example.zip). Browse the presentation below to get an idea.
 
-<a href="/latex/beamer/talk-template.pdf" target="_blank"><img src="/latex/beamer/talk-beamer.png"></a>
+<script async class="speakerdeck-embed" data-id="1699e83bfb374866ae7d55a9a59f6125" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<!-- <a href="/latex/beamer/talk-template.pdf" target="_blank"><img src="/latex/beamer/talk-beamer.png"></a> -->
 
 ## Posters
 
