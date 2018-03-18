@@ -1,6 +1,6 @@
 ---
 date: 2017-03-11T15:14:39+02:00
-title: Quotes
+title: Widgets
 weight: 2
 menu:
   main:
@@ -8,6 +8,5 @@ menu:
     weight: 2
 ---
 
-[Home](/)/[Other](/other/)/[Quotes](/other/quotes/)
+[Home](/)/[Other](/other/)/[Widgets](/other/widgets/)
 
-{{< range_quote >}}

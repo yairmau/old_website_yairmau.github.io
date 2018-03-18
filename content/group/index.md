@@ -21,3 +21,11 @@ weight: 3
 **2013:** Ph.D. Physics Department, Ben-Gurion University of the Negev, Israel.  
 **2009:** M.Sc. Physics Department, Ben-Gurion University of the Negev, Israel.  
 **2005:** B.Sc. Physics Department, University of São Paulo, Brazil.  
+
+---------
+## Isaac Kramer, PhD student
+<img src="/images/isaac_kramer_640x400.jpg" alt="isaac" style="width: 600px;"/>
+<!-- ## <i class="entypo entypo-vcard" aria-hidden="true"></i> Academic Bio​  -->
+
+**September 2017:** M.Sc. in Desert Studies, Ben-Gurion University of the Negev, Israel.  
+**2010:** B.A. in Mathematics and History, University at Buffalo Honors College, State University of New York Buffalo, New York.
