@@ -35,14 +35,17 @@ Make sure you are acquainted with ipython (interactive python, <a href="https://
 ​
 I recommend <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a> for writing code, and you can install the Anaconda package to it to have a smooth IDE. [not the same anaconda as mentioned above! Yes, it's confusing, I know.]
 
-<a href="https://trinket.io/" target="_blank">Trinket.io</a> lets you run python scripts online! Run (<i class="fa fa-play" aria-hidden="true"></i>) this, and edit it as you wish:
-<iframe src="https://trinket.io/embed/python/cc05d913b4" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**************************************************
 
-<!-- ```python
-import numpy as np
-for i in np.arange(10):
-    print(i*0.2)
-``` -->
+## Fitzhugh-Nagumo --- Labyrinthine Patterns
+
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/fhn_spectral.ipynb" class="button" target="_blank">Jupyter notebook</a>
+
+Main features:
+how to make a movie, time-integration methods (semi-spectral and Euler)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xzc5R9q1vVo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 **************************************************
 
 ## Conway's Game of Life, acorn initial condition
