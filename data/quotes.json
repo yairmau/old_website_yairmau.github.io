@@ -80,7 +80,7 @@
     },
 
     {
-    "author": "Douglas Adams, The Salmon of Doubt: Hitchhiking the Galaxy One Last Time",
+    "author": "Douglas Adams, <i>The Salmon of Doubt: Hitchhiking the Galaxy One Last Time</i>",
     "quote": "The fact that we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be."
     },
 
@@ -127,7 +127,28 @@
     {
     "author": "Jonathan Safran Foer, <i>Here I Am</i>",
     "quote": "Brain beats muscle as surely as paper beats rock."
+    },
+
+    {
+    "author": "Douglas Adams, <i>The Hitchiker's Guide to the Galaxy</i>",
+    "quote": "”Forty-two!” yelled Loonquawl. ”Is that all you’ve got to show for seven and a half million years’ work?” <br /> ”I checked it very thoroughly,” said the computer, ”and that quite definitely is the answer. I think the problem, to be quite honest with you, is that you’ve never actually known what the question is.” <br /> ”But it was the Great Question! The Ultimate Question of Life, the Universe and Everything!” howled Loonquawl. <br /> ”Yes,” said Deep Thought with the air of one who suffers fools gladly, ”but what actually is it?” <br /> A slow stupefied silence crept over the men as they stared at the computer and then at each other. <br /> ”Well, you know, it’s just Everything . . . Everything . . . ” offered Phouchg weakly. <br /> ”Exactly!” said Deep Thought. ”So once you do know what the question actually is, you’ll know what the answer means.”"
+    },
+
+    {
+    "author": "Pablo Picasso",
+    "quote": "Computers are useless. They can only give you answers."
+    },
+
+    {
+    "author": "Henri Poincaré",
+    "quote": "The true and only goal of science is to reveal unity rather than mechanism."
+    },
+
+    {
+    "author": "Josiah Willard Gibbs",
+    "quote": "One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity."
     }
+
 ]
 
 
