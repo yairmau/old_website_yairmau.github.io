@@ -22,6 +22,8 @@ menu:
 * <a href="http://www.terrybisson.com/page6/page6.html" target="_blank">They're made out of meat</a>, by Terry Bisson.
 * <a href="http://future-lives.com/wp-content/uploads/2014/09/TheSentinel.pdf" target="_blank">The Sentinel</a>, by Arthur C. Clarke.
 * <a href="https://kwarc.info/teaching/TDM/Borges.pdf" target="_blank">On Exactitude in Science</a>, by Jorge Luis Borges.
+* <a href="https://urbigenous.net/library/power.html" target="_blank">The Feeling Of Power
+</a>, by Isaac Asimov.
 
 ## Technical stuff
 * <a href="https://bash.cyberciti.biz/guide/Main_Page" target="_blank">Linux Shell Scripting Tutorial</a>
