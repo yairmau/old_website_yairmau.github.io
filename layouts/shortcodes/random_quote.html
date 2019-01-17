@@ -1,7 +1,0 @@
-{{ $sec := now.Unix }}
-{{ $quotes := getJSON "data/quotes.json" }}
-{{ $modsec := mod $sec (len $quotes)}}
-{{ $random := mod $sec (len $quotes) }}
-{{ index $quotes $modsec "quote" | markdownify}}
-<br>
-<b>{{ index $quotes $modsec "author" | markdownify}}</b>
