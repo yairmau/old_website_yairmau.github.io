@@ -66,8 +66,8 @@ Research project for graduate students. [Read more here.](/group/join) -->
 
 -----
 <blockquote>
-"Nothing is more practical than a good theory."  
-**Kurt Lewin**
+"True science teaches, above all, to doubt and to be ignorant."  
+**Miguel de Unamuno**
 </blockquote>
 <!-- {{< random_quote >}} -->
 

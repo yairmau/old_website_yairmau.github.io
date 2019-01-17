@@ -155,11 +155,42 @@
     },
 
     {
+    "author": "Miguel de Unamuno",
+    "quote": "True science teaches, above all, to doubt and to be ignorant."
+    },
+
+    {
     "author": "Unknown",
     "quote": "If you are the smartest person in the room, then you are in the wrong room."
+    },
+
+    {
+    "author": "Jordan Ellenberg, <i>How Not to Be Wrong: The Power of Mathematical Thinking</i>",
+    "quote": "Dividing one number by another is mere computation; knowing what to divide by what is mathematics."
+    },
+
+    {
+    "author": "Amos Tversky, on the hot hand fallacy",
+    "quote": "I’ve been in this argument a thousand times. Won them all and convinced nobody."
+    },
+
+    {
+    "author": "Jordan Ellenberg, <i>How Not to Be Wrong: The Power of Mathematical Thinking</i>",
+    "quote": "Mathematics is the extension of common sense by other means."
+    },
+    
+    {
+    "author": "Blaise Pascal",
+    "quote": "If I had more time, I would have written a shorter letter."
+    },
+
+    {
+    "author": "Richard P. Feynman",
+    "quote": "I am going to give what I will call an elementary demonstration. But elementary does not mean easy to understand. Elementary means that very little is required to know ahead of time in order to understand it, except to have an infinite amount of intelligence. There may be a large number of steps that hard to follow, but to each does not require already knowing the calculus or Fourier transforms."
+    },
+
+    {
+    "author": "Alan Turing, <i>The Chemical Basis of Morphogenesis</i>",
+    "quote": "In this section a mathematical model of the growing embryo will be described. This model will be a simplification and an idealization, and consequently a falsification. It is to be hoped that the features retained for discussion are those of greatest importance in the present state of knowledge."
     }
-
 ]
-
-
-

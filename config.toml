@@ -35,7 +35,7 @@ pageNotFoundSubtitle = ""
 	show_relations = false
 
 [params.footer]
-	copyright = "[Yair Mau](https://yairmau.github.io)"
+	copyright = "[Yair Mau](https://yairmau.com)"
 	show_powered_by = true
 
  [[menu.main]]

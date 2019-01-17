@@ -1,8 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Oxygen');
-@import url('https://fonts.googleapis.com/css?family=Signika');
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
-@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 @import url(http://weloveiconfonts.com/api/?family=zocial);
@@ -37,18 +34,18 @@ div.sphinxsidebarwrapper p.blurb {
     font-style: normal;
     font-size: 110%;
     text-align: center;
-    font-family: 'Noto Sans';
+    font-family: 'Noto Sans', sans-serif;
 }
 
 p.admonition-title:after {
     content: "";
 }
 div.admonition p.admonition-title {
-    font-family: 'Noto Sans', 'Montserrat', 'Garamond', 'Georgia', serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 div.sphinxsidebar ul li.toctree-l1 > a {
     font-size: 130%;
-    font-family: 'Noto Sans';
+    font-family: 'Noto Sans', sans-serif;
 }
 div.sphinxsidebar ul {
     list-style: none;
@@ -57,28 +54,27 @@ div.sphinxsidebar ul {
 /*.toctree-l1 ul {
     list-style: none;
 }*/
-
 a {
-    color: #6e0014;
-    text-decoration: none;
+    color: #6c7053;
+    text-decoration: underline;
 }
 /* unvisited link */
 a:link {
-    color: #6e0014;
-    text-decoration: none;
+    color: #6c7053;
+    text-decoration: underline;
 }
 /* visited link */
 a:visited {
-    color: #6e0014;
+    color: #6c7053;
 }
 /* mouse over link */
 a:hover {
-    color: #6c7053;
+    color: #6e0014;
     text-decoration: underline;
 }
 /* selected link */
 a:active {
-    color: #6e0014;
+    color: #6c7053;
 }
 
 .toctree-l1 li {
@@ -162,22 +158,26 @@ div.body {
     border-left-width: 0px;
     border-left-style: outset;
     border-left-color: #6e0014;
-    font-family: 'Noto Sans', 'Montserrat';
+    font-family: "Noto Sans", sans-serif;
+}
+
+strong, b {
+    font-weight: bolder;
 }
 
 div.sphinxsidebar h4 {
-    font-family: 'Noto Sans';
+    font-family: 'Noto Sans', sans-serif;
 }
 div.sphinxsidebar input {
-    font-family: 'Noto Sans';
+    font-family: 'Noto Sans', sans-serif;
 }
 div.body h1 {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 900;
     color: #6c7053;
 }
 div.body h2 {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 900;
     color: #6c7053;
 }
@@ -187,7 +187,7 @@ div.body h2 {
 }
 
 .h2heb h2{
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 900;
 }
 
@@ -195,7 +195,7 @@ div.body h2 {
     font-style: normal;
     font-size: 110%;
     text-align: center;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     color: #6e0014;
 }
 
@@ -212,11 +212,11 @@ div.body h5 {
     color: #6c7053;
 }
 div.body h6 {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     color: #6c7053;
 }
 div.footer {
-    font-family: 'Noto Sans';
+    font-family: 'Noto Sans', sans-serif;
 }
 div.sphinxsidebarwrapper h1.logo-name {
     font-family: 'Roboto';
@@ -288,7 +288,7 @@ div.sphinxsidebarwrapper h1.logo-name {
     body {
         margin: 0;
         padding: 20px 30px;
-        font-family: 'Noto Sans'
+        font-family: 'Noto Sans, sans-serif'
     }
 
     div.documentwrapper {

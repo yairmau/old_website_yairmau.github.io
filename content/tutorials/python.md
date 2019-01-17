@@ -5,6 +5,7 @@ description: Many practical examples of python visualizations
 menu:
   main:
     parent: "Tutorials"
+    weight: 1
 ---
 [Home](/)/[Tutorials](/tutorials/)/[Python](/tutorials/python/)
 

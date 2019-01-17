@@ -42,3 +42,10 @@ menu:
 <a href="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg" target="_blank">Mathologer</a>,
 <a href="https://www.youtube.com/channel/UCGRB1ZjIqAiaGwt-XLq9CnA" target="_blank">Sciencium</a>,
 <a href="https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A" target="_blank">Steve Mould</a>
+
+## Podcasts
+
+* [Hardcore History with Dan Carlin](https://www.dancarlin.com/hardcore-history-series/), especially the series “Blueprint for Armageddon” and “Wrath of the Khans”.  
+* [99% Invisible](https://99percentinvisible.org/)  
+* [Radiolab](https://www.wnycstudios.org/shows/radiolab/)  
+* [Waking Up Podcast](https://samharris.org/podcast/), with Sam Harris

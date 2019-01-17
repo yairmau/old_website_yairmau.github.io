@@ -4,6 +4,7 @@ title: LaTeX
 menu:
   main:
     parent: "Tutorials"
+    weight: 2
 ---
 <!-- if you are going to write equation in other pages, then just copy
 this there, and the two scripts at the bottom of this file. You can also copy this in the footer.html, for example,
@@ -30,15 +31,15 @@ or
 <div>$$
 \phi = 1 +
 \cfrac{1}{1+
-\cfrac{1}{1+
 \cfrac{1}{1+\dotsb
-}}}
+}}=
+\frac{1+\sqrt{5}}{2}
 $$</div>
 Learn more [here](https://en.wikibooks.org/wiki/LaTeX/Mathematics).
 
 ## Presentation
 
-Make beautiful presentations using Beamer! Download a full working example of my favorite template [here](/latex/beamer/beamer-example.zip). Browse the presentation below to get an idea.
+Make beautiful presentations using Beamer! Download a full working example of my favorite template [[zip](/latex/beamer/beamer-example.zip)] [[overleaf](https://www.overleaf.com/read/cczsgqqwmfnr)]. Browse the presentation below to get an idea.
 
 <script async class="speakerdeck-embed" data-id="1699e83bfb374866ae7d55a9a59f6125" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -46,7 +47,9 @@ Make beautiful presentations using Beamer! Download a full working example of my
 
 ## Posters
 
-Make beautiful posters with LaTeX. Download [portrait](https://bitbucket.org/yairmau/notebooks/raw/master/portrait_poster.zip) and [landscape](https://bitbucket.org/yairmau/notebooks/raw/master/landscape_poster.zip) templates.
+Make beautiful posters with LaTeX.  
+Portrait [[zip](https://bitbucket.org/yairmau/notebooks/raw/master/portrait_poster.zip)] [[overleaf](https://www.overleaf.com/read/ghmkxkkscsqs)]  
+Landscape [[zip](https://bitbucket.org/yairmau/notebooks/raw/master/landscape_poster.zip)] [[overleaf](https://www.overleaf.com/read/rjdkyjgmcttf)]
 
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/landscape.png)
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/portrait.png)
@@ -55,12 +58,11 @@ Make beautiful posters with LaTeX. Download [portrait](https://bitbucket.org/yai
 
 This template is based on my PhD thesis, it can make your life easier!
 
-1. Download this [zip file](/latex/phd-thesis/phd_template.zip).
+1. Download [[zip](/latex/phd-thesis/phd_template.zip)] [[overleaf](https://www.overleaf.com/read/kfmwyznnxtvz)].
 2. Don't forget to read the file README.txt
 3. Enjoy!
 
-Take a look at the [compiled template](/latex/phd-thesis/phd-thesis.pdf).
-
+<script async class="speakerdeck-embed" data-id="67d5c0bb51044919b2d93d5a8db1399c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Hebrew
 

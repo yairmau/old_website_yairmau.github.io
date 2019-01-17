@@ -14,16 +14,16 @@ menu:
 
 # Talks
 
-A scientific talk **is not** a scientific paper, it is a completely different medium! Here are a few tips of how to thing of scientific talks.
+A scientific talk **is not** a scientific paper, it is a completely different medium! Here are a few tips that I find useful.
 
 <center>
 ![](/images/phd-comics-presentation.jpg)  
 <a href="https://jorgecham.com/" target="_blank">Cartoon by Jorge Cham</a>
 </center>
 
-## How To Give a Talk
+### How To Give a Talk
 
-[How To Give a Talk, by David L Stern.](http://www.howtogiveatalk.com/)
+[[How To Give a Talk, by David L Stern.](http://www.howtogiveatalk.com/)]
 
 **Excerpt:**
 
@@ -32,13 +32,17 @@ It may not seem intuitive, but including words on slides has a bigger detrimenta
 
 > The slides in most science talks contain many words. This simple fact has many consequences, none positive. Most obviously, words on slides impel listeners to read the words on the slide. If you are talking while they are reading, then you generate cognitive dissonance that makes it difficult for the audience to understand either your spoken words or your written words. So, if you want your audience to read the words on a slide, then, presumably, you should shut up. But, I don’t recommend that. Instead, just cut all the words form your slides. 
 
-## The David Attenborough Style of Scientific Presentation
+### The David Attenborough Style of Scientific Presentation
 
-[The David Attenborough Style of Scientific Presentation](https://www.dropbox.com/s/j1vv2baheiduvip/David%20Attenborough%20talk%20technique%202018.pdf?dl=0)
+[[The David Attenborough Style of Scientific Presentation.](https://www.dropbox.com/s/j1vv2baheiduvip/David%20Attenborough%20talk%20technique%202018.pdf?dl=0)]
 
 **Excerpt:**
 
 > Get into this mindset: your main job is to be an entertainer, not a scientist. Most scientists don’t do this, which is why most scientific talks are bad. The fact of the matter is that if the audience doesn’t understand and enjoy your talk, they won’t care if your science is good. 
+
+### A LaTeX template
+
+Check out a nice LaTeX template for presentations [[here](/tutorials/latex/#presentation)].
 
 ----------
 
@@ -57,9 +61,8 @@ Here are a few thoughts on visualizations.
 * The Economist, <a href="http://www.economist.com/blogs/graphicdetail" target="_blank">Daily Chart</a>
 
 ## Colors
-Don't use the <span style="color:red">r</span><span style="color:orange">a</span><span style="color:olive">i</span><span style="color:green">n</span><span style="color:teal">b</span><span style="color:blue">o</span><span style="color:fuchsia">w</span> color map.  
-Ever.  
-Why? <a href="https://eagereyes.org/basics/rainbow-color-map" target="_blank">Read this</a>, by <a href="https://twitter.com/eagereyes" target="_blank">Robert Kosara</a>.
+Don't use the <span style="color:red">r</span><span style="color:orange">a</span><span style="color:olive">i</span><span style="color:green">n</span><span style="color:teal">b</span><span style="color:blue">o</span><span style="color:fuchsia">w</span> color map.    
+Why? [<a href="https://eagereyes.org/basics/rainbow-color-map" target="_blank">Read this</a>], by <a href="https://twitter.com/eagereyes" target="_blank">Robert Kosara</a>.
 
 So how should you choose the colors for a graph?
 

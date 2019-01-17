@@ -10,3 +10,5 @@ weight: 4
 ## <span style="display:inline-block; width: 0.1em;"></span> <i class="icon-python"></i>  [Python tutorial](/tutorials/python/)
 
 ## <i class="entypo entypo-language"></i> [LaTeX tutorial](/tutorials/latex/)
+
+## <i class="entypo entypo-target"></i> [Widgets tutorial](/tutorials/widgets/)
