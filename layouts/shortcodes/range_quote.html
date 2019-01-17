@@ -1,0 +1,22 @@
+{{ $sec := now.Second }}
+{{ $quotes := getJSON "data/quotes.json" }}
+{{ $modsec := mod $sec (len $quotes)}}
+{{ $random := mod $sec (len $quotes) }}
+{{ $len_quotes := (len $quotes)}}
+
+{{ $array := (seq 0 $len_quotes) }}
+{{ range $array }}
+    {{ if eq 1 (mod . 2) }}
+        <blockquote><blockquote>
+        {{ index $quotes . "quote" | markdownify }}
+        <br>
+        <b>{{ index $quotes . "author" | markdownify }}</b>
+        </blockquote></blockquote>
+    {{ else }}
+        {{ index $quotes . "quote" | markdownify }}
+        <br>
+        <b>{{ index $quotes . "author" | markdownify }}</b>
+        <br>
+    {{ end }}
+    <br>
+{{end}}
