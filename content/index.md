@@ -6,7 +6,7 @@ menu:
 weight: 10
 ---
 
-**Senior Lecturer** [equivalent to Assistant Professor]  
+**Senior Lecturer** [Assistant Professor]  
 The Department of **Soil and Water Sciences**  
 Robert H. Smith **Faculty of Agriculture, Food and Environment**  
 **The Hebrew University of Jerusalem**
@@ -28,25 +28,11 @@ Some of the tools we use in the modeling of environmental questions come from dy
 \[[Read more on current research projects...](/research/)\]
 
 I love to write code, and I made available on the [Tutorials](/tutorials/) page some working examples in Python and LaTeX. Check it out!
-<!-- {{< admonition title="How to find me " type="note" >}}
-<i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il  
-<i class="fa fa-phone fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386  
-<i class="entypo entypo-address" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span>  Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
-{{< /admonition >}}
- -->
+
 ## How to find me
 <i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il  
 <i class="fa fa-phone fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386  
 <i class="entypo entypo-address" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span>  Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
-
-
-<!-- ## <i class="entypo entypo-vcard" aria-hidden="true"></i> Academic Bio​ 
-
-**2016–present:** Senior Lecturer, The Hebrew University of Jerusalem.  
-**2013–2016:** Postdoctoral Associate at the Civil and Environmental Engineering Department, Duke University, USA.  
-**2013:** Ph.D. Physics Department, Ben-Gurion University of the Negev, Israel.  
-**2009:** M.Sc. Physics Department, Ben-Gurion University of the Negev, Israel.  
-**2005:** B.Sc. Physics Department, University of São Paulo, Brazil.   -->
 
 <p style="text-align: center;">
 <a href="/cv_yairmau.pdf" class="button" target="_blank">Check out my CV</a>
@@ -54,28 +40,8 @@ I love to write code, and I made available on the [Tutorials](/tutorials/) page 
 <a href="https://scholar.google.com/citations?user=kiKmEQMAAAAJ" class="button" target="_blank">Google scholar profile</a>
 </p>
 
-<!--
------
-## <i class="fa fa-bullhorn" aria-hidden="true"></i> Join our group!
-Research project for graduate students. [Read more here.](/group/join) -->
-
-<!-- {{< admonition title="[Join our group!]" type="allert" >}}
- [Read more here](/group/join).
-{{< /admonition >}} -->
-
-
 -----
 <blockquote>
 "True science teaches, above all, to doubt and to be ignorant."  
 **Miguel de Unamuno**
 </blockquote>
-<!-- {{< random_quote >}} -->
-
-<!-- Group of Elements 
-<ul>
-  <li class="zocial-twitter"></li>
-  <li class="zocial-flickr"></li>
-  <li class="zocial-lastfm"></li>
-  <li class="zocial-reddit"></li>
-</ul>
--->

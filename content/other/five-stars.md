@@ -11,7 +11,9 @@ menu:
 [Home](/)/[Other](/other/)/[Five-stars](/other/five-stars/)
 
 ## Books
-* <a href="https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies" target="_blank">Superintelligence: Paths, Dangers, Strategies</a>, by Nick Bostrom.
+[[Check out my Goodreads profile](https://www.goodreads.com/user/show/52721996-yair-mau)].  
+
+* <a href="https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies" target="_blank">Superintelligence: Paths, Dangers, Strategies</a>, by Nick Bostrom.  
 * <a href="https://www.amazon.com/Unfolding-Language-Evolutionary-Mankinds-Invention/dp/0805080120" target="_blank">The Unfolding of Language: An Evolutionary Tour of Mankind's Greatest Invention</a>, by Guy Deutscher.
 
 ## Blogs
@@ -48,4 +50,4 @@ menu:
 * [Hardcore History with Dan Carlin](https://www.dancarlin.com/hardcore-history-series/), especially the series “Blueprint for Armageddon” and “Wrath of the Khans”.  
 * [99% Invisible](https://99percentinvisible.org/)  
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab/)  
-* [Waking Up Podcast](https://samharris.org/podcast/), with Sam Harris
+* [Making Sense](https://samharris.org/podcast/), with Sam Harris
