@@ -258,7 +258,7 @@ The Physics Department, The Ben-Gurion University of the Negev, Israel.
 
 ### Master's Thesis
 <center><iframe width="300" height="300" src="https://www.youtube.com/embed/aE8mYeUUTZY?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
-**Title:** *"Loalized Spatial Strutures in Non-Equilibrium Systems"*  
+**Title:** *"Localized Spatial Strutures in Non-Equilibrium Systems"*  
 **Advisor:** <a href="http://in.bgu.ac.il/en/bidr/SIDEER/DSEEP/Ehud_Meron/Pages/default.aspx" target="_blank">Prof. Ehud Meron.</a>  
 The Physics Department, The Ben-Gurion University of the Negev, Israel.  
 <a href="/papers/msc_thesis_yair11.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>  

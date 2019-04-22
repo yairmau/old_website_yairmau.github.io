@@ -41,7 +41,13 @@ I love to write code, and I made available on the [Tutorials](/tutorials/) page 
 </p>
 
 -----
-<blockquote>
-"True science teaches, above all, to doubt and to be ignorant."  
-**Miguel de Unamuno**
-</blockquote>
+<!-- <blockquote> -->
+<p style="margin-left: 40px">
+Problems worthy  <br>
+&nbsp &nbsp &nbsp of attack <br>  
+prove their worth   <br>
+&nbsp &nbsp &nbsp by hitting back.
+</p>
+
+**Piet Hein**
+<!-- </blockquote> -->
