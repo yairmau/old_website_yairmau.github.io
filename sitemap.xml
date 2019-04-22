@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://yairmau.github.io/egu18/</loc>
-    <lastmod>2018-03-11T15:14:39+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yairmau.github.io/publications/masters/</loc>
     <lastmod>2017-12-24T15:01:36+02:00</lastmod>
   </url>
@@ -121,12 +116,6 @@
   
   <url>
     <loc>https://yairmau.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yairmau.github.io/egu18/</loc>
-    <lastmod>2018-03-11T15:14:39+02:00</lastmod>
     <priority>0</priority>
   </url>
   

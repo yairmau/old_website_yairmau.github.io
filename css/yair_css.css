@@ -1,7 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+/*@import url('https://fonts.googleapis.com/css?family=Noto+Sans');*/
+/*@import url('https://fonts.googleapis.com/css?family=Roboto');*/
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans');*/
+/*@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');*/
+/*@import url('https://fonts.googleapis.com/css?family=Cabin');*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+/*@import url('https://fonts.googleapis.com/css?family=Lato');*/
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat');*/
+
 @import url(http://weloveiconfonts.com/api/?family=zocial);
 
 /*COLOR PALETTE
@@ -34,18 +39,18 @@ div.sphinxsidebarwrapper p.blurb {
     font-style: normal;
     font-size: 110%;
     text-align: center;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 p.admonition-title:after {
     content: "";
 }
 div.admonition p.admonition-title {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 div.sphinxsidebar ul li.toctree-l1 > a {
     font-size: 130%;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 div.sphinxsidebar ul {
     list-style: none;
@@ -158,26 +163,28 @@ div.body {
     border-left-width: 0px;
     border-left-style: outset;
     border-left-color: #6e0014;
-    font-family: "Noto Sans", sans-serif;
+    /*font-family: 'Open Sans', 'Cabin', 'Work Sans', sans-serif;*/
+    font-family: 'Ubuntu', sans-serif;
 }
 
 strong, b {
-    font-weight: bolder;
+    font-weight: 900;
+    letter-spacing: 0.5px;
 }
 
 div.sphinxsidebar h4 {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 div.sphinxsidebar input {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 div.body h1 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: 900;
     color: #6c7053;
 }
 div.body h2 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: 900;
     color: #6c7053;
 }
@@ -187,7 +194,7 @@ div.body h2 {
 }
 
 .h2heb h2{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-weight: 900;
 }
 
@@ -195,31 +202,31 @@ div.body h2 {
     font-style: normal;
     font-size: 110%;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     color: #6e0014;
 }
 
 div.body h3 {
-    font-family: 'Roboto';
+    font-family: 'Ubuntu';
     color: #6c7053;
 }
 div.body h4 {
-    font-family: 'Roboto';
+    font-family: 'Ubuntu';
     color: #6c7053;
 }
 div.body h5 {
-    font-family: 'Roboto';
+    font-family: 'Ubuntu';
     color: #6c7053;
 }
 div.body h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     color: #6c7053;
 }
 div.footer {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 div.sphinxsidebarwrapper h1.logo-name {
-    font-family: 'Roboto';
+    font-family: 'Ubuntu';
     font-weight: 300;
 }
 
@@ -288,7 +295,7 @@ div.sphinxsidebarwrapper h1.logo-name {
     body {
         margin: 0;
         padding: 20px 30px;
-        font-family: 'Noto Sans, sans-serif'
+        font-family: 'Ubuntu, sans-serif'
     }
 
     div.documentwrapper {
