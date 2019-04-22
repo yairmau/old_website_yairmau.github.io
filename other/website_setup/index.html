@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head lang="en-us">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+	<meta name="description" content="Faculty member at The Hebrew University of Jerusalem, The Department of Soil and Water Sciences. My background is in Physics, and my current research interests are: soil degradation, desertification, soil salinity, desert ecosystem modeling, ecohydrology, pattern formation, nonlinear dynamics.">
+	<meta name="generator" content="Hugo 0.28" />
+	
+	<title>Website setup &mdash; Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</title>
+	
+	<link rel="stylesheet" href="https://yairmau.github.io/css/alabaster.css" type="text/css" />
+	<link rel="stylesheet" href="https://yairmau.github.io/css/highlight.css" type="text/css" />
+
+	<link rel="stylesheet" href="https://yairmau.github.io/css/yair_css.css">
+
+	<link rel="shortcut icon" href="https://yairmau.github.io/images/site-logo_official.png" type="image/x-icon"/>
+<script src="https://use.fontawesome.com/b913ad1cef.js"></script>
+<link rel="stylesheet" href="/fonts/font-mfizz/font-mfizz.css">
+
+<link rel="stylesheet" href="/fonts/entypo/fonts-entypo.css">
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+
+<meta content="" name="keywords">
+
+
+
+<meta content="Website setup - Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem" property="og:title">
+<meta content="Faculty member at The Hebrew University of Jerusalem, The Department of Soil and Water Sciences. My background is in Physics, and my current research interests are: soil degradation, desertification, soil salinity, desert ecosystem modeling, ecohydrology, pattern formation, nonlinear dynamics. - " property="og:description">
+
+</head>
+
+	<body role="document">
+		<div class="document">
+			<div class="documentwrapper">
+				<div class="bodywrapper">
+					<div class="body" role="main">
+						
+	<h1 align="center">Website setup</h1>
+	
+	<p>Instructions on how to host your Hugo website on Github. The website URL will be <code>username.github.io</code>, where username is your Github username.
+These instructions are based on this <a href="https://hjdskes.github.io/blog/update-deploying-hugo-on-personal-gh-pages/">blog post</a> (You can also consult <a href="https://gohugo.io/tutorials/github-pages-blog/">this</a>, although I think it is unnecessary.)</p>
+
+<ol>
+<li>On Github, create repository called username.github.io</li>
+
+<li><p>Locally, do the following:</p>
+
+<pre><code class="language-bash">mkdir username.github.io
+cd username.github.io
+echo &quot;# username.github.io&quot; &gt;&gt; README.md
+git init
+git add README.md
+git commit -m &quot;first commit&quot;
+git remote add origin https://github.com/username/username.github.io.git
+git push -u origin master
+</code></pre></li>
+
+<li><p>Create a new branch called &ldquo;hugo&rdquo;: <code>git checkout -b hugo</code></p></li>
+
+<li><p>Put in this &ldquo;hugo&rdquo; branch all the source files for your website.</p></li>
+
+<li><p>Generate website: type <code>hugo</code>, this creates a &ldquo;public&rdquo; folder</p></li>
+
+<li><p>Download <a href="/website_setup/setup.sh/">setup.sh</a>, put it together with other files in the hugo branch.</p></li>
+
+<li><p>Push this branch:</p>
+
+<pre><code class="language-bash">git add --all
+git commit -m &quot;first hugo branch commit&quot;
+git push origin hugo
+</code></pre></li>
+
+<li><p>Go to Github, make &ldquo;hugo&rdquo; the default branch. In the repository website, you will see now &ldquo;2 branches&rdquo;, click on it. Click on &ldquo;Change default branch&rdquo;, and choose &ldquo;sources&rdquo;, then update.</p></li>
+
+<li><p>Execute setup script (<code>bash setup.sh</code>), still in hugo branch.</p></li>
+
+<li><p>To make sure that &ldquo;hugo&rdquo; branch is in sync with &ldquo;origin&rdquo; (i.e. Github), repeat step 7.</p></li>
+
+<li><p>Download <a href="/website_setup/deploy.sh/">deploy.sh</a> and execute it (<code>bash deploy.sh</code>).</p></li>
+
+<li><p>That&rsquo;s it. Now make changes to your website and see if running <code>deploy.sh</code> updates your website properly. Remember to run step number 7 before you do so.</p></li>
+</ol>
+
+
+
+						
+					</div>
+				</div>
+			</div>
+			
+			<div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+	<div class="sphinxsidebarwrapper">
+
+		
+
+		<p class="logo">
+			<a href="https://yairmau.github.io/">
+				<img class="logo" src="https://yairmau.github.io/images/site-logo_official.png" alt="Logo"/>
+				
+				
+			</a>
+		</p>
+		
+		
+
+		
+
+<ul>
+
+
+  
+  
+  
+    <li class="toctree-l1">
+      <a href="/research/" class="">Research</a>
+    </li>
+  
+
+  
+  
+  
+    <li class="toctree-l1">
+      <a href="/publications/" class="">Publications</a>
+    </li>
+  
+
+  
+  
+  
+    <li class="toctree-l1">
+      <a href="/group/" class="">Group</a>
+    </li>
+  
+
+  
+  
+   
+    <li class="toctree-l1">
+      <a href="/tutorials/" class="">
+        Tutorials
+        
+        <i class="fa fa-chevron-right" style="font-size:14px" aria-hidden="true"></i>
+        
+      </a>
+      
+      
+    </li>
+  
+
+  
+  
+   
+    <li class="toctree-l1">
+      <a href="/other/" class="">
+        Other
+        
+        <i class="fa fa-chevron-right" style="font-size:14px" aria-hidden="true"></i>
+        
+      </a>
+      
+      
+    </li>
+  
+
+  
+  
+  
+    <li class="toctree-l1">
+      <a href="/hebrew/" class="">עברית</a>
+    </li>
+  
+
+  
+  
+  
+    <li class="toctree-l1">
+      <a href="/" class="">Home</a>
+    </li>
+  
+
+</ul>
+		
+
+
+<div class="sideexplanation">
+<span style="font-size:180%;font-weight:900"><img src="/images/site-logo_official.png" alt="logo" height="24" width="24" style="vertical-align:middle"> Yair Mau</span></br>
+<hr style="width:100%;">
+Environmental Modeling</br>
+<hr style="width:100%;">
+The Hebrew University</br>of Jerusalem
+</div>
+
+
+	</div>
+</div>
+<div class="clearer"></div>
+</div>
+			<div class="footer">
+	&copy; 2019 <a href="https://yairmau.com">Yair Mau</a>
+	|
+	Powered by <a href="http://gohugo.io/">Hugo 0.28</a>
+	&amp; <a href="https://github.com/digitalcraftsman/hugo-alabaster-theme">Alabaster</a>
+	| <a href="/other/website_setup/">Instructions</a>
+	
+</div>
+
+
+
+
+			<script src="https://yairmau.github.io/js/toggle.js"></script>
+
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+			<script>hljs.initHighlightingOnLoad();</script>
+			
+
+			
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-78726339-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+		</div>
+	</body>
+</html>

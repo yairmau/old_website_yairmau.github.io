@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</title>
+    <link>https://yairmau.github.io/tutorials/</link>
+    <description>Recent content in Tutorials on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 15:01:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://yairmau.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://yairmau.github.io/tutorials/</link>
+      <pubDate>Sat, 11 Mar 2017 15:01:36 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/tutorials/</guid>
+      <description> Home/Tutorials
+  Python tutorial  LaTeX tutorial  Widgets tutorial </description>
+    </item>
+    
+    <item>
+      <title>Widgets</title>
+      <link>https://yairmau.github.io/tutorials/widgets/</link>
+      <pubDate>Thu, 10 Jan 2019 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/tutorials/widgets/</guid>
+      <description>You can find all my widgets on Binder, which processes the Jupyter Notebooks hosted on Github.
+Make widgets using nbinteract. Learn how here.
+My first widget, produces a histogram
+This widget processes strings</description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://yairmau.github.io/tutorials/latex/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/tutorials/latex/</guid>
+      <description>Home/Tutorials/LaTeX
+Equations $$ ax^2 +bx+c=0 $$ https://gohugo.io/tutorials/mathjax/ -- With LaTeX you can write beautiful equations like $R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda = {8 \pi G \over c^4} T_{\mu \nu}$
+or $$ \phi = 1 + \cfrac{1}{1+ \cfrac{1}{1+\dotsb }}= \frac{1+\sqrt{5}}{2} $$ Learn more here.
+Presentation Make beautiful presentations using Beamer! Download a full working example of my favorite template [zip] [overleaf]. Browse the presentation below to get an idea.</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://yairmau.github.io/tutorials/python/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/tutorials/python/</guid>
+      <description>Home/Tutorials/Python
+Python is a great language for scientific computing, most of the programming done by our group is in python. We provide below some links for learning this language, and below we offer many python code examples. You are invited to download these codes, tweak with them, break them, hack them as you wish!
+Most codes focus on plotting, but other algorithms such as numerical integration and Fourier transforms can also be found.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yairmau.github.io/tutorials/widgets/textio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yairmau.github.io/tutorials/widgets/textio/</guid>
+      <description>yairmau.github.io/index.html at master · yairmau/yairmau.github.io  Skip to content       --     In this repository  All GitHub  ↵  Jump to ↵     No suggested jump to results        In this repository  All GitHub  ↵  Jump to ↵         In this repository  All GitHub  ↵  Jump to ↵             Pull requests    Issues   Marketplace    Explore             New repository  Import repository  New gist  New organization   This repository  New issue       Signed in as yairmau     Set your status    --  Edit status           80 remaining    Suggestions: 🌴  On vacation   🤒  Out sick    🏠  Working from home   🎯  Focusing      Busy  When others mention you, assign you, or request your review, GitHub will let them know that you have limited availability.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yairmau.github.io/tutorials/widgets/wid1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yairmau.github.io/tutorials/widgets/wid1/</guid>
+      <description>yairmau.github.io/index.html at master · yairmau/yairmau.github.io  Skip to content       --     In this repository  All GitHub  ↵  Jump to ↵     No suggested jump to results        In this repository  All GitHub  ↵  Jump to ↵         In this repository  All GitHub  ↵  Jump to ↵             Pull requests    Issues   Marketplace    Explore             New repository  Import repository  New gist  New organization   This repository  New issue       Signed in as yairmau     Set your status    --  Edit status           80 remaining    Suggestions: 🌴  On vacation   🤒  Out sick    🏠  Working from home   🎯  Focusing      Busy  When others mention you, assign you, or request your review, GitHub will let them know that you have limited availability.</description>
+    </item>
+    
+  </channel>
+</rss>

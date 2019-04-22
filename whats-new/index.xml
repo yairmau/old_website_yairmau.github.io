@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whats-news on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</title>
+    <link>https://yairmau.github.io/whats-new/</link>
+    <description>Recent content in Whats-news on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 15:14:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://yairmau.github.io/whats-new/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my first post</title>
+      <link>https://yairmau.github.io/whats-new/my-first-post/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/whats-new/my-first-post/</guid>
+      <description>bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>Back in Israel</title>
+      <link>https://yairmau.github.io/whats-new/2016-11-08-back-in-israel/</link>
+      <pubDate>Tue, 08 Nov 2016 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/whats-new/2016-11-08-back-in-israel/</guid>
+      <description>Last August I came back to Israel, after 3 years in North Carolina, USA. It was a very nice period of my life, but it is great to be back!
+I already have an office in the Department of Soil and Water Sciences, and I&amp;rsquo;m starting to get acquainted with the people and the facilites. You can find me in office 19 (ground floor) in Lubell building. Come have some coffee with me!</description>
+    </item>
+    
+  </channel>
+</rss>

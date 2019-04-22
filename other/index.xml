@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</title>
+    <link>https://yairmau.github.io/other/</link>
+    <description>Recent content in Others on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 15:14:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://yairmau.github.io/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Five-star Content</title>
+      <link>https://yairmau.github.io/other/five-stars/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/five-stars/</guid>
+      <description>Home/Other/Five-stars
+Books [Check out my Goodreads profile].
+ Superintelligence: Paths, Dangers, Strategies, by Nick Bostrom.
+ The Unfolding of Language: An Evolutionary Tour of Mankind&amp;rsquo;s Greatest Invention, by Guy Deutscher.  Blogs  Wait but why, by Tim Urban. Fuck Yeah Fluid Dynamics, by Nicole Sharp.  Short stories  They&amp;rsquo;re made out of meat, by Terry Bisson. The Sentinel, by Arthur C. Clarke. On Exactitude in Science, by Jorge Luis Borges.</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://yairmau.github.io/other/tools/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/tools/</guid>
+      <description>Home/Other/Tools
+Programming Anaconda &amp;ldquo;The easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X.&amp;rdquo;
+Sublime Text &amp;ldquo;Sublime Text is a sophisticated text editor for code, markup and prose.&amp;rdquo;
+Jupyter Notebook &amp;ldquo;The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.&amp;rdquo;
+CodeCademy &amp;ldquo;Learn to code interactively, for free.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://yairmau.github.io/other/quotes/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/quotes/</guid>
+      <description>Home/Other/Quotes
+The scientist is not a person who gives the right answers, he’s one who asks the right questions. Claude Lévi-Strauss  The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ (I found it!) but ‘That’s funny&amp;hellip;’ Isaac Asimov  In theory, there is no difference between theory and practice. But, in practice, there is. Jan L. A. van de Snepscheut  Contrary to what Asimov says, the most exciting phrase in science, the one that heralds new discoveries, is not ‘Eureka!</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://yairmau.github.io/other/</link>
+      <pubDate>Sat, 11 Mar 2017 15:01:36 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/</guid>
+      <description>Home/Other
+ Tools I recommend  [Tools I recommend](/other/tools/) --  Quotes  [Quotes](/other/quotes/) --  Photos  [Photos](/other/photos/) --  Science Communication  [Visualizations](/other/visual/) --  Five-star Content 5 [Five-star Content](/other/five-stars/) -- 
+This website This website is powered by Hugo, and the design is a thorough modification I made to the Alabaster theme. To learn how to integrate Hugo with Github Pages, read this.</description>
+    </item>
+    
+    <item>
+      <title>Website setup</title>
+      <link>https://yairmau.github.io/other/website_setup/</link>
+      <pubDate>Thu, 20 Apr 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/website_setup/</guid>
+      <description>Instructions on how to host your Hugo website on Github. The website URL will be username.github.io, where username is your Github username. These instructions are based on this blog post (You can also consult this, although I think it is unnecessary.)
+ On Github, create repository called username.github.io Locally, do the following:
+mkdir username.github.io cd username.github.io echo &amp;quot;# username.github.io&amp;quot; &amp;gt;&amp;gt; README.md git init git add README.md git commit -m &amp;quot;first commit&amp;quot; git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://yairmau.github.io/other/photos/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/photos/</guid>
+      <description>Home/Other/Photos
+Some photos I took at the Rehovot Campus of the Hebrew University.</description>
+    </item>
+    
+    <item>
+      <title>Science Communication</title>
+      <link>https://yairmau.github.io/other/communication/</link>
+      <pubDate>Sat, 11 Mar 2017 15:14:39 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/other/communication/</guid>
+      <description>Home/Other/Science Communication
+Talks A scientific talk is not a scientific paper, it is a completely different medium! Here are a few tips that I find useful.
+ Cartoon by Jorge Cham 
+How To Give a Talk [How To Give a Talk, by David L Stern.]
+Excerpt:
+ Principle 1 - Don&amp;rsquo;t Put Words On Slides
+It may not seem intuitive, but including words on slides has a bigger detrimental effect on the quality of a talk than any other issue I will address.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yairmau.github.io/other/widget1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yairmau.github.io/other/widget1/</guid>
+      <description>{ &#34;version_major&#34;: 2, &#34;version_minor&#34;: 0, &#34;state&#34;: { &#34;dba3cf4ed994459f8d6d4a21442ca945&#34;: { &#34;model_name&#34;: &#34;LayoutModel&#34;, &#34;model_module&#34;: &#34;@jupyter-widgets/base&#34;, &#34;model_module_version&#34;: &#34;1.0.0&#34;, &#34;state&#34;: {} }, &#34;767abba2b77a42dfa011306cbbcc97aa&#34;: { &#34;model_name&#34;: &#34;LayoutModel&#34;, &#34;model_module&#34;: &#34;@jupyter-widgets/base&#34;, &#34;model_module_version&#34;: &#34;1.0.0&#34;, &#34;state&#34;: {} }, &#34;aa95cf789c9c4219b84369745c356fad&#34;: { &#34;model_name&#34;: &#34;FloatSliderModel&#34;, &#34;model_module&#34;: &#34;@jupyter-widgets/controls&#34;, &#34;model_module_version&#34;: &#34;1.0.0&#34;, &#34;state&#34;: { &#34;style&#34;: &#34;IPY_MODEL_802503a5dbdb44959efddc2d1e804167&#34;, &#34;layout&#34;: &#34;IPY_MODEL_2c2603683f9c4230af7535e55e7fdd4f&#34;, &#34;description&#34;: &#34;dt&#34;, &#34;min&#34;: 0.001, &#34;max&#34;: 1, &#34;step&#34;: 0.001, &#34;value&#34;: 0.5 } }, &#34;39d3f08225504693a3d3d113bdd188fc&#34;: { &#34;model_name&#34;: &#34;LayoutModel&#34;, &#34;model_module&#34;: &#34;@jupyter-widgets/base&#34;, &#34;model_module_version&#34;: &#34;1.0.0&#34;, &#34;state&#34;: {} }, &#34;fece8dc05e0841938196ab2b9b615fe2&#34;: { &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

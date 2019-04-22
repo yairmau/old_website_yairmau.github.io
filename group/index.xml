@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Groups on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</title>
+    <link>https://yairmau.github.io/group/</link>
+    <description>Recent content in Groups on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 15:01:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://yairmau.github.io/group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Join our group!</title>
+      <link>https://yairmau.github.io/group/join/</link>
+      <pubDate>Sat, 11 Mar 2017 15:01:36 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/group/join/</guid>
+      <description>Home/Group/Join
+We are looking for excellent graduate students to join our new group. The candidate should have good knowledge in mathematics and physics, and basic programming skills.
+--  Project: Tree water balance in a semiarid pine forest and rates of survival under global climate change Longer droughts and temperature rise impose severe risks of widespread forest mortality. Drought-adapted trees in semiarid and arid ecosystems cope with water stress by regulating their transpiration rate, thus saving internal water content and avoiding runaway decline in water potential.</description>
+    </item>
+    
+    <item>
+      <title>Group</title>
+      <link>https://yairmau.github.io/group/</link>
+      <pubDate>Sat, 11 Mar 2017 15:01:36 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/group/</guid>
+      <description>Home/Group
+Yair Mau, PI 2016–present: Senior Lecturer, The Hebrew University of Jerusalem.
+2013–2016: Postdoctoral Associate at the Civil and Environmental Engineering Department, Duke University, USA.
+2013: Ph.D. Physics Department, Ben-Gurion University of the Negev, Israel.
+2009: M.Sc. Physics Department, Ben-Gurion University of the Negev, Israel.
+2005: B.Sc. Physics Department, University of São Paulo, Brazil.
+Isaac Kramer, PhD student September 2017: M.Sc. in Desert Studies, Ben-Gurion University of the Negev, Israel.</description>
+    </item>
+    
+  </channel>
+</rss>

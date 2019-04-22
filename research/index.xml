@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</title>
+    <link>https://yairmau.github.io/research/</link>
+    <description>Recent content in Researches on Yair Mau | Environmental Modeling | The Hebrew University of Jerusalem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 15:01:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://yairmau.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://yairmau.github.io/research/</link>
+      <pubDate>Sat, 11 Mar 2017 15:01:36 +0200</pubDate>
+      
+      <guid>https://yairmau.github.io/research/</guid>
+      <description>Home/Research
+ Interests I&amp;rsquo;m interested in the interactions between soil, water and vegetation in drylands, in both natural and agricultural ecosystems. Our goal is to understand how the basic processes and feedbacks influence the ecosystem dynamics, and how this knowledge can be used to control those systems. ​
+The common theme between my different research projects is land/ecosystem degradation caused by human activity.
+Our research is based on &amp;ldquo;simple&amp;rdquo; mathematical models, that strive to capture the essential physical processes, while providing deep insight into the dynamics of the system.</description>
+    </item>
+    
+  </channel>
+</rss>
