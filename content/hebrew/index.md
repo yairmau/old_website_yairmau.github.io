@@ -5,6 +5,8 @@ title: עברית
 weight: 6
 ---
 
+[Home](/)/[Hebrew](/hebrew/)
+
 <div class="h2heb">
 <h2 dir="rtl">ד״ר יאיר מאו </h2>
 </div>

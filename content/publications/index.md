@@ -11,7 +11,7 @@ weight: 2
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau** and Amilcare Porporato. Optimal control solutions to sodic soil reclamation. Advances in Water Resources, 91:37--45, 2016.  
-doi: [10.1016/j.advwatres.2016.02.014](http://dx.doi.org/10.1016/j.advwatres.2016.02.014).  
+doi: [`10.1016/j.advwatres.2016.02.014`](http://dx.doi.org/10.1016/j.advwatres.2016.02.014)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2016optimal')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2016optimal')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2016-Optimal control solutions to sodic soil reclamation.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -34,7 +34,7 @@ We study the reclamation process of a sodic soil by irrigation with water amende
 
 <i class="entypo entypo-docs"></i>
 Amilcare Porporato, Xue Feng, Stefano Manzoni, **Yair Mau**, Anthony J. Parolari, and Giulia Vico. Ecohydrological modeling in agroecosystems: Examples and challenges. Water Resources Research, 51(7):5081--5099, 2015.  
-doi: [10.1002/2015WR017289](http://dx.doi.org/10.1002/2015WR017289).  
+doi: [`10.1002/2015WR017289`](http://dx.doi.org/10.1002/2015WR017289)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-porporato2015ecohydrological')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-porporato2015ecohydrological')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/porporato-2015-Ecohydrological modeling in agroecosystems-Examples and challenges.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -58,7 +58,7 @@ Human societies are increasingly altering the water and biogeochemical cycles to
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau** and Amilcare Porporato. A dynamical system approach to soil salinity and sodicity. Advances in Water Resources, 83:68--76, 2015.  
-doi: [10.1016/j.advwatres.2015.05.010](http://dx.doi.org/10.1016/j.advwatres.2015.05.010).  
+doi: [`10.1016/j.advwatres.2015.05.010`](http://dx.doi.org/10.1016/j.advwatres.2015.05.010)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2015dynamical')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2015dynamical')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2015-A dynamical system approach to soil salinity and sodicity.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -84,7 +84,7 @@ Soil salinity and sodicity impose severe constrains to agriculture, especially i
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau**, Lev Haim, and Ehud Meron. Reversing desertification as a spatial resonance problem. Physical Review E, 91(1):012903, 2015.  
-doi: [10.1103/PhysRevE.91.012903](http://dx.doi.org/10.1103/PhysRevE.91.012903).  
+doi: [`10.1103/PhysRevE.91.012903`](http://dx.doi.org/10.1103/PhysRevE.91.012903)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2015reversing')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2015reversing')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2015-Reversing desertification as a spatial resonance problem.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -110,7 +110,7 @@ An important environmental application of pattern control by periodic spatial fo
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau**, Xue Feng, and Amilcare Porporato. Multiplicative jump processes and applications to leaching of salt and contaminants in the soil. Physical Review E, 90(5):052128, 2014.  
-doi: [10.1103/PhysRevE.90.052128](http://dx.doi.org/10.1103/PhysRevE.90.052128).  
+doi: [`10.1103/PhysRevE.90.052128`](http://dx.doi.org/10.1103/PhysRevE.90.052128)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2014multiplicative')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2014multiplicative')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2014-Multiplicative jump processes and applications to leaching of salt and contaminants in the soil.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -137,7 +137,7 @@ We consider simple systems driven multiplicatively by white shot noise, which ap
 
 <i class="entypo entypo-docs"></i>
 Lev Haim, **Yair Mau**, and Ehud Meron. Spatial forcing of pattern-forming systems that lack inversion symmetry. Physical Review E, 90(2):022904, 2014.  
-doi: [10.1103/PhysRevE.90.022904](http://dx.doi.org/10.1103/PhysRevE.90.022904).  
+doi: [`10.1103/PhysRevE.90.022904`](http://dx.doi.org/10.1103/PhysRevE.90.022904)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-haim2014spatial')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-haim2014spatial')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/haim-2014-Spatial forcing of pattern-forming systems that lack inversion symmetry.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -166,7 +166,7 @@ nth of the forcing wavenumber, we delineate commonalities and differences among 
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau**, Lev Haim, Aric Hagberg, and Ehud Meron. Competing resonances in spatially forced pattern-forming systems. Physical Review E, 88(3): 032917, 2013.  
-doi: [10.1103/PhysRevE.88.032917](http://dx.doi.org/10.1103/PhysRevE.88.032917).  
+doi: [`10.1103/PhysRevE.88.032917`](http://dx.doi.org/10.1103/PhysRevE.88.032917)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2013competing')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2013competing')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2013-Competing resonances in spatially forced pattern-forming systems.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -193,7 +193,7 @@ Spatial periodic forcing can entrain a pattern-forming system in the same way as
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau**, Aric Hagberg, and Ehud Meron. Spatial periodic forcing can displace patterns it is intended to control. Physical Review Letters, 109 (3):034102, 2012.  
-doi: [10.1103/PhysRevLett.109.034102](http://dx.doi.org/10.1103/PhysRevLett.109.034102).  
+doi: [`10.1103/PhysRevLett.109.034102`](http://dx.doi.org/10.1103/PhysRevLett.109.034102)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2012spatial')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2012spatial')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2012-Spatial periodic forcing can displace patterns it is intended to control.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>
@@ -220,7 +220,7 @@ Spatial periodic forcing of pattern-forming systems is an important, but lightly
 
 <i class="entypo entypo-docs"></i>
 **Yair Mau**, Aric Hagberg, and Ehud Meron. Dual-mode spiral vortices. Physical Review E, 80(6):065203, 2009.  
-doi: [10.1103/physreve.80.065203](http://dx.doi.org/10.1103/PhysRevE.80.065203).  
+doi: [`10.1103/physreve.80.065203`](http://dx.doi.org/10.1103/PhysRevE.80.065203)  
 <a href="javascript:void(0);" onClick="toggleDiv('abstract-mau2009dual')">Abstract <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="javascript:void(0);" onClick="toggleDiv('bib-mau2009dual')">BibTeX <i class="fa fa-plus-square"></i></a>&emsp;
 <a href="/papers/mau-2009-Dual-mode spiral vortices.pdf" target="_blank">PDF <i class="fa fa-file-text" aria-hidden="true"></i></a>

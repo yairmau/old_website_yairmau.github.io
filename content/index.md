@@ -30,7 +30,7 @@ Some of the tools we use in the modeling of environmental questions come from dy
 I love to write code, and I made available on the [Tutorials](/tutorials/) page some working examples in Python and LaTeX. Check it out!
 
 ## How to find me
-<i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> yair.mau at mail.huji.ac.il  
+<i class="fa fa-envelope fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> <kbd>yair.mau at mail.huji.ac.il</kbd>  
 <i class="fa fa-phone fa-fw fa-lg" aria-hidden="true"></i> <span>&ensp;</span> +972 8 948 9386  
 <i class="entypo entypo-address" style="font-size:22px" aria-hidden="true"></i> <span>&ensp;</span>  Rehovot Campus, Lubell building, office 19. <a href="https://goo.gl/maps/DM62y5VXAxJ2" target="_blank">Map here</a>
 

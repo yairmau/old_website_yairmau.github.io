@@ -7,6 +7,14 @@ menu:
     parent: "Tutorials"
     weight: 1
 ---
+<!-- if you are going to write equation in other pages, then just copy
+this there, and the two scripts at the bottom of this file. You can also copy this in the footer.html, for example,
+LaTeX will be available throughout the whole site.
+ -->
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 [Home](/)/[Tutorials](/tutorials/)/[Python](/tutorials/python/)
 
 Python is a great language for scientific computing, most of the programming done by our group is in python. We provide below some links for learning this language, and below we offer many python code examples. You are invited to download these codes, tweak with them, break them, hack them as you wish!
@@ -67,7 +75,7 @@ Main features:
 **************************************************
 
 ## Least squares fit of nonlinear function
-<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/least-squares.ipynb" class="button" target="_blank">Jupyter notebook</a>  
+<a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/least-squares.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
 Main features:
 `LaTeX text, scipy.optimize.curve_fit, matplotlib.patches`  
@@ -147,7 +155,7 @@ Main features:
 
 <a href="http://nbviewer.jupyter.org/urls/bitbucket.org/yairmau/notebooks/raw/master/hysteresis.ipynb" class="button" target="_blank">Jupyter notebook</a>
 
-Hysteresis mechanism created by the bistability of states. System goes to minimum points u in the energy functional f=u^4-2u^2+hu. The the parameter h is ramped down and up during this simulation.  
+Hysteresis mechanism created by the bistability of states. System goes to minimum points u in the energy functional $f=u^4-2u^2+hu$. The parameter $h$ is ramped down and up during this simulation.  
 Main features:
 `sympy analytical calculations, numpy dtypes, movie`
 
@@ -201,3 +209,31 @@ Main features:
 `unicode, bar, barh, grid`
 
 ![](http://www.bitbucket.org/yairmau/notebooks/raw/master/figures/bars.png)
+
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    // Fix <code> tags after MathJax finishes running. This is a
+    // hack to overcome a shortcoming of Markdown. Discussion at
+    // https://github.com/mojombo/jekyll/issues/199
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
