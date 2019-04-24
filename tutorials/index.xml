@@ -27,7 +27,8 @@
       <pubDate>Thu, 10 Jan 2019 15:14:39 +0200</pubDate>
       
       <guid>https://yairmau.github.io/tutorials/widgets/</guid>
-      <description>You can find all my widgets on Binder, which processes the Jupyter Notebooks hosted on Github.
+      <description>Home/Tutorials/Widgets
+You can find all my widgets on Binder, which processes the Jupyter Notebooks hosted on Github.
 Make widgets using nbinteract. Learn how here.
 My first widget, produces a histogram
 This widget processes strings</description>
